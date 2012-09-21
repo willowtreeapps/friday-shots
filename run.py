@@ -29,4 +29,4 @@ with open('results.json', 'r') as f:
 data.append({'date': str(datetime.now().date()), 'results': results})
 
 with open('results.json', 'w') as f:
-    json.dump(data, f)
+    json.dump(data, f, indent=2)
