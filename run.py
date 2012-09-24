@@ -13,6 +13,27 @@ random.shuffle(names)
 
 
 results = {}
+
+while names:
+    name = names.pop()
+
+    result = raw_input('[%d] %s: ' % (len(results), name))
+    result = result.lower()
+
+    if result in ('y', 'yes'):
+        results[name] = True
+
+    elif result in ('n', 'no'):
+        results[name] = False
+
+    elif result in ('w', 'wait'):
+        names.insert(0, name)
+
+    elif result in ('s', 'skip'):
+        continue
+
+
+
 for index, name in enumerate(names):
     result = raw_input('[%d] %s: ' % (index, name))
     if result.lower() in ('y', 't', '1'):
