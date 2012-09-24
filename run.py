@@ -11,7 +11,6 @@ raw_input('Continue?')
 
 random.shuffle(names)
 
-
 results = {}
 
 while names:
