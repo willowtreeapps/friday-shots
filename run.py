@@ -31,6 +31,9 @@ while names:
     elif result in ('s', 'skip'):
         continue
 
+    else:
+        print 'Unrecognized'
+        names.insert(0, name)
 
 
 for index, name in enumerate(names):
