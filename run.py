@@ -46,10 +46,10 @@ for index, name in enumerate(names):
         results[name] = False
 
 
-with open('results.json', 'r') as f:
+with open('data.json', 'r') as f:
     data = json.load(f)
 
 data.append({'date': str(datetime.now().date()), 'results': results})
 
-with open('results.json', 'w') as f:
+with open('data.json', 'w') as f:
     json.dump(data, f, indent=2)
