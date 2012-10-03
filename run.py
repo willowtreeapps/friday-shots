@@ -33,7 +33,7 @@ while names:
 
     else:
         print 'Unrecognized'
-        names.insert(0, name)
+        names.append(name)
 
 
 for index, name in enumerate(names):
