@@ -8,8 +8,7 @@ Rules
 3. No practice shots can be taken once the competition begins.
 4. Each participant gets to take one shot after paying the $1 entry fee. All fees must be paid  
    prior to the first shot.
-5. Ramesh has the authority to award an extra shot as an incentive for fixing particularly bad bugs. He may exercise this authority at his discretion, but the committee feels that the granting of these extra shots should be limited to at most one per month.
-6. All shooters who hit the bell will split the pot.
+5. All shooters who hit the bell will split the pot.
 
 
 Bell Strikage Success Criteria
