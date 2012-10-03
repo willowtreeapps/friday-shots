@@ -16,7 +16,7 @@ Bell Strikage Success Criteria
 ------------------------------
 1. The participant must have both of his or her feet on the ground, behind the
    orange tape. The tape must always be lined up with the line in the ceiling
-   that bisects Joe's office's door.
+   that bisects the smallest office's door.
 2. The participant must use one of the two original nerf guns or one of the two orange ones.
    Only the black-tipped whistler darts can be used.
 3. The dart must strike either the bell's chain or its body, but importantly not
