@@ -97,22 +97,22 @@ def main(args):
 
     print "####  Players' records  ####"
     for player, wins, losses, win_percentage in player_records(data):
-        print '  %d of %d (%.0f%%) %s' % (wins, wins + losses, win_percentage * 100, player)
+        print '* %d of %d (%.0f%%) %s' % (wins, wins + losses, win_percentage * 100, player)
 
     print
 
     print '#### Money by player  ####'
     for player, money_won in money_by_player(data):
-        print '  [$%.2f] %s' % (money_won, player)
+        print '* [$%.2f] %s' % (money_won, player)
 
     print
 
     print '#### Players per game  ####'
     mini, maxi, avg, std = players_per_game(data)
-    print '  Average: %.2f' % avg
-    print '  Std dev: %.2f' % std
-    print '  Minimum: %d' % mini
-    print '  Maximum: %d' % maxi
+    print '* Average: %.2f' % avg
+    print '* Std dev: %.2f' % std
+    print '* Minimum: %d' % mini
+    print '* Maximum: %d' % maxi
 
 
 
