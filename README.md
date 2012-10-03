@@ -29,8 +29,41 @@ Bell Strikage Success Criteria
 
 
 Friday Shots Enhancement Proposals (FSEPs)
-----------------------------------
+------------------------------------------
 FSEP 1. Ideally we would have about one winner per month so there's been discussion
    of making the shot harder. The most obvious way to make it harder is to
    move the tape further away from the bell.
+
+Results
+-------
+####  Players' records  ####
+  1 of 2 (50%) robert
+  0 of 2 (0%) jeff
+  0 of 1 (0%) erin
+  0 of 2 (0%) ramesh
+  0 of 2 (0%) beatrice
+  0 of 2 (0%) alex
+  0 of 2 (0%) gregg
+  0 of 2 (0%) jim
+  0 of 2 (0%) aaron
+  0 of 2 (0%) angela
+  0 of 1 (0%) ascander
+  0 of 2 (0%) tiger
+  0 of 2 (0%) ivan
+  0 of 2 (0%) colin
+  0 of 2 (0%) kumanan
+  0 of 2 (0%) andy
+  0 of 1 (0%) rami
+  0 of 1 (0%) tony
+  0 of 1 (0%) russ
+  0 of 1 (0%) thomas
+
+#### Money by player  ####
+  [$34.00] robert
+
+#### Players per game  ####
+  Average: 17.00
+  Std dev: 1.00
+  Minimum: 16
+  Maximum: 18
 
