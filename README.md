@@ -36,36 +36,39 @@ FSEP 1. Ideally we would have about one winner per month so there's been discuss
 Results
 -------
 ####  Players' records  ####
-* 1 of 1 (100%) tom
-* 1 of 3 (33%) colin
-* 1 of 3 (33%) robert
+* 1 of 2 (50%) tom
+* 1 of 4 (25%) colin
+* 1 of 4 (25%) ramesh
+* 1 of 4 (25%) robert
+* 1 of 4 (25%) gregg
 * 0 of 2 (0%) thomas
-* 0 of 3 (0%) jeff
-* 0 of 2 (0%) beatrice
-* 0 of 2 (0%) ascander
-* 0 of 1 (0%) erin
+* 0 of 4 (0%) jeff
+* 0 of 3 (0%) beatrice
+* 0 of 3 (0%) ascander
+* 0 of 2 (0%) erin
 * 0 of 1 (0%) tony
-* 0 of 3 (0%) ramesh
-* 0 of 2 (0%) jim
-* 0 of 2 (0%) kumanan
-* 0 of 2 (0%) angela
-* 0 of 3 (0%) aaron
+* 0 of 3 (0%) jim
+* 0 of 3 (0%) kumanan
+* 0 of 3 (0%) angela
+* 0 of 4 (0%) aaron
 * 0 of 2 (0%) andy
-* 0 of 3 (0%) gregg
-* 0 of 2 (0%) tiger
-* 0 of 3 (0%) alex
-* 0 of 1 (0%) casualjim
+* 0 of 3 (0%) tiger
+* 0 of 4 (0%) alex
+* 0 of 2 (0%) casualjim
 * 0 of 1 (0%) rami
 * 0 of 2 (0%) ivan
 * 0 of 1 (0%) russ
 
 #### Money by player  ####
 * [$34.00] robert
-* [$22.50] colin
-* [$22.50] tom
+* [$8.00] gregg
+* [$8.00] ramesh
+* [$5.50] colin
+* [$5.50] tom
 
 #### Players per game  ####
-* Average: 15.00
-* Std dev: 2.94
+* Average: 15.25
+* Std dev: 2.59
 * Minimum: 11
 * Maximum: 18
+
