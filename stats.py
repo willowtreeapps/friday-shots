@@ -54,7 +54,7 @@ def money_by_player(data, include_losers=False):
             for player in winners:
                 counter[player] += money_won
 
-            money_won = 0
+            money_in_the_pot = 0
 
 
         if include_losers:
