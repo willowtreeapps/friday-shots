@@ -37,38 +37,41 @@ Results
 -------
 ####  Players' records  ####
 * 1 of 2 (50%) tom
+* 1 of 3 (33%) erin
 * 1 of 4 (25%) colin
 * 1 of 4 (25%) ramesh
-* 1 of 4 (25%) robert
 * 1 of 4 (25%) gregg
+* 1 of 5 (20%) robert
 * 0 of 2 (0%) thomas
-* 0 of 4 (0%) jeff
+* 0 of 5 (0%) jeff
 * 0 of 3 (0%) beatrice
-* 0 of 3 (0%) ascander
-* 0 of 2 (0%) erin
-* 0 of 1 (0%) tony
-* 0 of 3 (0%) jim
+* 0 of 4 (0%) ascander
+* 0 of 2 (0%) tony
+* 0 of 1 (0%) katie
+* 0 of 4 (0%) jim
 * 0 of 3 (0%) kumanan
-* 0 of 3 (0%) angela
+* 0 of 4 (0%) angela
 * 0 of 4 (0%) aaron
 * 0 of 2 (0%) andy
-* 0 of 3 (0%) tiger
+* 0 of 1 (0%) hannah
+* 0 of 4 (0%) tiger
+* 0 of 1 (0%) joe
 * 0 of 4 (0%) alex
-* 0 of 2 (0%) casualjim
-* 0 of 1 (0%) rami
+* 0 of 3 (0%) casualjim
+* 0 of 2 (0%) rami
 * 0 of 2 (0%) ivan
 * 0 of 1 (0%) russ
 
 #### Money by player  ####
 * [$34.00] robert
-* [$8.00] gregg
+* [$13.00] erin
 * [$8.00] ramesh
+* [$8.00] gregg
 * [$5.50] colin
 * [$5.50] tom
 
 #### Players per game  ####
-* Average: 15.25
-* Std dev: 2.59
+* Average: 14.80
+* Std dev: 2.48
 * Minimum: 11
 * Maximum: 18
-
