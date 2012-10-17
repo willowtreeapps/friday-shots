@@ -71,7 +71,7 @@ def players_per_game(data):
       data: JSON data representing results from games.
     Returns: a 4-tuple (min, max, mean, std)
     """
-    nums = [len(day['results'])  for day in data]
+    nums = [len(day['results']) for day in data]
     return (min(nums), max(nums), mean(nums), stdev(nums))
 
 
