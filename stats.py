@@ -97,7 +97,8 @@ def main(args):
 
     print "####  Players' records  ####"
     for player, wins, losses, win_percentage in player_records(data):
-        print '* %d of %d (%.0f%%) %s' % (wins, wins + losses, win_percentage * 100, player)
+        print '* %d of %d (%.0f%%) %s' % \
+              (wins, wins + losses, win_percentage * 100, player.title())
 
     print
 
