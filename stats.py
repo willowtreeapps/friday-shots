@@ -28,7 +28,10 @@ def player_records(data):
             counts['wins'] / (counts['wins'] + counts['losses'])) 
            for player, counts in counter.iteritems()]
 
-    ret.sort(key=itemgetter(3), reverse=True)
+    def _key(thing):
+        return (thing[3], -thing[1] - thing[2])
+
+    ret.sort(key=_key, reverse=True)
     return ret
 
 
