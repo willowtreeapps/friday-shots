@@ -107,7 +107,7 @@ def main(args):
 
     print '#### Money by player  ####'
     for player, money_won in money_by_player(data):
-        print '* [$%.2f] %s' % (money_won, player)
+        print '* [$%.2f] %s' % (money_won, player.title())
 
     print
 
