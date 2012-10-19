@@ -37,7 +37,7 @@ while names:
 
 
 for index, name in enumerate(names):
-    result = raw_input('[%d] %s: ' % (index, name))
+    result = raw_input('[%d] %s: ' % (index + 1, name))
     if result.lower() in ('y', 't', '1'):
         results[name] = True
     elif result.lower() == 'skip':
