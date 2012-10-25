@@ -36,16 +36,6 @@ while names:
         names.append(name)
 
 
-for index, name in enumerate(names):
-    result = raw_input('[%d] %s: ' % (index + 1, name))
-    if result.lower() in ('y', 't', '1'):
-        results[name] = True
-    elif result.lower() == 'skip':
-        continue
-    else:
-        results[name] = False
-
-
 with open('data.json', 'r') as f:
     data = json.load(f)
 
