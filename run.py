@@ -16,7 +16,7 @@ results = {}
 while names:
     name = names.pop()
 
-    result = raw_input('[%d] %s: ' % (len(results), name))
+    result = raw_input('[%d] %s: ' % (len(results) + 1, name))
     result = result.lower()
 
     if result in ('y', 'yes'):
