@@ -78,4 +78,4 @@ Results
 * Maximum: 18
 
 ### Money in the pot ###
-  $30
+* $30

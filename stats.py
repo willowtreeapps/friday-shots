@@ -132,7 +132,7 @@ def main(args):
     print
 
     print '### Money in the pot ###'
-    print '  $%d' % current_pot(data)
+    print '* $%d' % current_pot(data)
 
 
 if __name__ == '__main__':
