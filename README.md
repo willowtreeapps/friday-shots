@@ -76,3 +76,6 @@ Results
 * Std dev: 2.17
 * Minimum: 11
 * Maximum: 18
+
+### Money in the pot ###
+  $30

@@ -78,6 +78,17 @@ def players_per_game(data):
     return (min(nums), max(nums), mean(nums), stdev(nums))
 
 
+def current_pot(data):
+    current = 0
+    for day in data:
+        if any(day['results'].values()):
+            current = 0
+        else:
+            current += len(day['results'])
+
+    return current
+
+
 def mean(xxs):
     xs = list(xxs)
     return sum(xs) / len(xs)
@@ -118,6 +129,10 @@ def main(args):
     print '* Minimum: %d' % mini
     print '* Maximum: %d' % maxi
 
+    print
+
+    print '### Money in the pot ###'
+    print '  $%d' % current_pot(data)
 
 
 if __name__ == '__main__':
