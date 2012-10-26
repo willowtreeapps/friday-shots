@@ -8,6 +8,7 @@ names = list(set(sys.argv[1:]))
 
 print 'There are %d players: %s' % (len(names), ', '.join(sorted(names)))
 raw_input('Continue?')
+print "'y' for a hit, 'n' for a miss, 's' to skip someone no longer playing, 'w' to wait"
 
 random.shuffle(names)
 
