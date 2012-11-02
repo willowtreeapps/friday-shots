@@ -36,34 +36,37 @@ FSEP 1. Ideally we would have about one winner per month so there's been discuss
 Results
 -------
 ####  Players' records  ####
-* 1 of 3 (33%) Erin
-* 1 of 3 (33%) Tom
+* 1 of 4 (25%) Erin
+* 1 of 4 (25%) Tom
 * 1 of 4 (25%) Gregg
-* 1 of 5 (20%) Ramesh
-* 1 of 6 (17%) Colin
-* 1 of 6 (17%) Robert
+* 1 of 6 (17%) Ramesh
+* 1 of 7 (14%) Colin
+* 1 of 7 (14%) Robert
+* 1 of 7 (14%) Jim
+* 0 of 1 (0%) Tony_S
 * 0 of 1 (0%) Katie
 * 0 of 1 (0%) Yuvi
-* 0 of 1 (0%) Joe
+* 0 of 1 (0%) Jan
 * 0 of 1 (0%) Will
 * 0 of 2 (0%) Hannah
-* 0 of 2 (0%) Rami
+* 0 of 2 (0%) Joe
 * 0 of 2 (0%) Russ
-* 0 of 3 (0%) Thomas
-* 0 of 3 (0%) Tony
 * 0 of 3 (0%) Kumanan
+* 0 of 3 (0%) Rami
+* 0 of 4 (0%) Thomas
+* 0 of 4 (0%) Tony
 * 0 of 4 (0%) Andy
-* 0 of 5 (0%) Beatrice
 * 0 of 6 (0%) Jeff
-* 0 of 6 (0%) Ascander
-* 0 of 6 (0%) Jim
-* 0 of 6 (0%) Angela
-* 0 of 6 (0%) Aaron
+* 0 of 6 (0%) Beatrice
 * 0 of 6 (0%) Tiger
-* 0 of 6 (0%) Alex
-* 0 of 7 (0%) Casualjim
+* 0 of 7 (0%) Ascander
+* 0 of 7 (0%) Angela
+* 0 of 7 (0%) Aaron
+* 0 of 7 (0%) Alex
+* 0 of 8 (0%) Casualjim
 
 #### Money by player  ####
+* [$48.00] Jim
 * [$34.00] Robert
 * [$13.00] Erin
 * [$8.00] Ramesh
@@ -72,10 +75,10 @@ Results
 * [$5.50] Tom
 
 #### Players per game  ####
-* Average: 14.86
-* Std dev: 2.17
+* Average: 15.25
+* Std dev: 2.28
 * Minimum: 11
 * Maximum: 18
 
 ### Money in the pot ###
-* $30
+* $0
