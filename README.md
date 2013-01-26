@@ -457,3 +457,63 @@ Results
 
 ### Money in the pot ###
 * $0
+####  Players' records  ####
+* 1 of 4 (25%) Gregg
+* 2 of 10 (20%) Ramesh
+* 3 of 15 (20%) Robert
+* 1 of 6 (17%) Tom
+* 1 of 7 (14%) Colin
+* 1 of 9 (11%) Tony
+* 1 of 10 (10%) Erin
+* 1 of 11 (9%) Rami
+* 1 of 13 (8%) Jeff
+* 1 of 13 (8%) Alex
+* 1 of 14 (7%) Ascander
+* 1 of 15 (7%) Jim
+* 0 of 1 (0%) Tony_S
+* 0 of 1 (0%) Russell
+* 0 of 1 (0%) Yuvi
+* 0 of 1 (0%) Jan
+* 0 of 1 (0%) Ben
+* 0 of 1 (0%) Man
+* 0 of 1 (0%) Ayush
+* 0 of 2 (0%) Katie
+* 0 of 2 (0%) Mark
+* 0 of 2 (0%) Cody
+* 0 of 2 (0%) Hannah
+* 0 of 3 (0%) Joe
+* 0 of 3 (0%) Will
+* 0 of 4 (0%) Jen
+* 0 of 5 (0%) Adam
+* 0 of 6 (0%) Kumanan
+* 0 of 6 (0%) Andy
+* 0 of 6 (0%) Russ
+* 0 of 9 (0%) Thomas
+* 0 of 10 (0%) Angela
+* 0 of 11 (0%) Beatrice
+* 0 of 12 (0%) Tiger
+* 0 of 13 (0%) Aaron
+* 0 of 13 (0%) Casualjim
+
+#### Money by player  ####
+* [$56.50] Robert
+* [$48.00] Jim
+* [$21.00] Ramesh
+* [$18.00] Tony
+* [$15.00] Jeff
+* [$15.00] Alex
+* [$15.00] Ascander
+* [$13.00] Erin
+* [$8.00] Gregg
+* [$7.50] Rami
+* [$5.50] Colin
+* [$5.50] Tom
+
+#### Players per game  ####
+* Average: 15.19
+* Std dev: 1.98
+* Minimum: 11
+* Maximum: 18
+
+### Money in the pot ###
+* $15
