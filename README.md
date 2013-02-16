@@ -33,54 +33,55 @@ FSEP 1. Ideally we would have about one winner per month so there's been discuss
    of making the shot harder. The most obvious way to make it harder is to
    move the tape further away from the bell.
 
-Results
--------
 ####  Players' records  ####
 * 1 of 4 (25%) Gregg
-* 4 of 16 (25%) Robert
-* 2 of 10 (20%) Ramesh
+* 4 of 17 (24%) Robert
+* 2 of 12 (17%) Ramesh
 * 1 of 7 (14%) Colin
-* 1 of 7 (14%) Tom
+* 1 of 8 (12%) Tom
+* 2 of 16 (12%) Ascander
 * 1 of 9 (11%) Tony
-* 1 of 11 (9%) Erin
-* 1 of 12 (8%) Rami
-* 1 of 14 (7%) Jeff
-* 1 of 14 (7%) Alex
-* 1 of 15 (7%) Ascander
-* 1 of 15 (7%) Jim
+* 1 of 13 (8%) Erin
+* 1 of 13 (8%) Rami
+* 1 of 15 (7%) Jeff
+* 1 of 15 (7%) Alex
+* 1 of 17 (6%) Jim
 * 0 of 1 (0%) Tony_S
 * 0 of 1 (0%) Russell
 * 0 of 1 (0%) Yuvi
 * 0 of 1 (0%) Jan
 * 0 of 1 (0%) Ben
 * 0 of 1 (0%) Man
-* 0 of 1 (0%) Ayush
+* 0 of 1 (0%) James
 * 0 of 2 (0%) Katie
 * 0 of 2 (0%) Mark
 * 0 of 2 (0%) Cody
 * 0 of 2 (0%) Hannah
+* 0 of 2 (0%) Ayush
+* 0 of 2 (0%) Clarke
+* 0 of 2 (0%) Stew
 * 0 of 3 (0%) Joe
 * 0 of 3 (0%) Will
-* 0 of 5 (0%) Jen
 * 0 of 6 (0%) Kumanan
 * 0 of 6 (0%) Andy
+* 0 of 6 (0%) Jen
 * 0 of 6 (0%) Adam
 * 0 of 6 (0%) Russ
 * 0 of 9 (0%) Thomas
-* 0 of 10 (0%) Angela
-* 0 of 11 (0%) Beatrice
-* 0 of 13 (0%) Tiger
+* 0 of 12 (0%) Beatrice
+* 0 of 12 (0%) Angela
 * 0 of 13 (0%) Casualjim
 * 0 of 14 (0%) Aaron
+* 0 of 14 (0%) Tiger
 
 #### Money by player  ####
 * [$82.50] Robert
 * [$48.00] Jim
+* [$38.00] Ascander
 * [$21.00] Ramesh
 * [$18.00] Tony
 * [$15.00] Jeff
 * [$15.00] Alex
-* [$15.00] Ascander
 * [$13.00] Erin
 * [$8.00] Gregg
 * [$7.50] Rami
@@ -88,8 +89,8 @@ Results
 * [$5.50] Tom
 
 #### Players per game  ####
-* Average: 14.94
-* Std dev: 2.15
+* Average: 14.58
+* Std dev: 2.30
 * Minimum: 11
 * Maximum: 18
 
