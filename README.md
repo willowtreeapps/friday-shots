@@ -34,45 +34,45 @@ FSEP 1. Ideally we would have about one winner per month so there's been discuss
    move the tape further away from the bell.
 
 ####  Players' records  ####
+* 1 of 3 (33%) Stew
 * 1 of 4 (25%) Gregg
-* 4 of 17 (24%) Robert
+* 4 of 19 (21%) Robert
 * 2 of 12 (17%) Ramesh
 * 1 of 7 (14%) Colin
 * 1 of 8 (12%) Tom
-* 2 of 16 (12%) Ascander
 * 1 of 9 (11%) Tony
-* 1 of 13 (8%) Erin
-* 1 of 13 (8%) Rami
-* 1 of 15 (7%) Jeff
-* 1 of 15 (7%) Alex
-* 1 of 17 (6%) Jim
+* 2 of 18 (11%) Ascander
+* 1 of 14 (7%) Erin
+* 1 of 14 (7%) Rami
+* 1 of 16 (6%) Jeff
+* 1 of 16 (6%) Alex
+* 1 of 19 (5%) Jim
 * 0 of 1 (0%) Tony_S
 * 0 of 1 (0%) Russell
 * 0 of 1 (0%) Yuvi
 * 0 of 1 (0%) Jan
 * 0 of 1 (0%) Ben
 * 0 of 1 (0%) Man
-* 0 of 1 (0%) James
 * 0 of 2 (0%) Katie
 * 0 of 2 (0%) Mark
 * 0 of 2 (0%) Cody
 * 0 of 2 (0%) Hannah
+* 0 of 2 (0%) James
 * 0 of 2 (0%) Ayush
-* 0 of 2 (0%) Clarke
-* 0 of 2 (0%) Stew
 * 0 of 3 (0%) Joe
 * 0 of 3 (0%) Will
+* 0 of 4 (0%) Clarke
 * 0 of 6 (0%) Kumanan
 * 0 of 6 (0%) Andy
 * 0 of 6 (0%) Jen
 * 0 of 6 (0%) Adam
 * 0 of 6 (0%) Russ
 * 0 of 9 (0%) Thomas
-* 0 of 12 (0%) Beatrice
 * 0 of 12 (0%) Angela
+* 0 of 13 (0%) Beatrice
 * 0 of 13 (0%) Casualjim
-* 0 of 14 (0%) Aaron
-* 0 of 14 (0%) Tiger
+* 0 of 15 (0%) Aaron
+* 0 of 16 (0%) Tiger
 
 #### Money by player  ####
 * [$82.50] Robert
@@ -83,16 +83,17 @@ FSEP 1. Ideally we would have about one winner per month so there's been discuss
 * [$15.00] Jeff
 * [$15.00] Alex
 * [$13.00] Erin
+* [$10.00] Stew
 * [$8.00] Gregg
 * [$7.50] Rami
 * [$5.50] Colin
 * [$5.50] Tom
 
 #### Players per game  ####
-* Average: 14.58
-* Std dev: 2.30
-* Minimum: 11
+* Average: 14.05
+* Std dev: 2.75
+* Minimum: 8
 * Maximum: 18
 
 ### Money in the pot ###
-* $0
+* $8
