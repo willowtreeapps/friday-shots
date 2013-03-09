@@ -39,14 +39,14 @@ FSEP 1. Ideally we would have about one winner per month so there's been discuss
 * 4 of 19 (21%) Robert
 * 2 of 12 (17%) Ramesh
 * 1 of 7 (14%) Colin
-* 1 of 8 (12%) Tom
-* 1 of 9 (11%) Tony
-* 2 of 18 (11%) Ascander
-* 1 of 14 (7%) Erin
+* 1 of 9 (11%) Tom
+* 2 of 19 (11%) Ascii
+* 1 of 10 (10%) Tony
 * 1 of 14 (7%) Rami
-* 1 of 16 (6%) Jeff
+* 1 of 15 (7%) Erin
 * 1 of 16 (6%) Alex
-* 1 of 19 (5%) Jim
+* 1 of 17 (6%) Jeff
+* 1 of 20 (5%) Jim
 * 0 of 1 (0%) Tony_S
 * 0 of 1 (0%) Russell
 * 0 of 1 (0%) Yuvi
@@ -61,23 +61,23 @@ FSEP 1. Ideally we would have about one winner per month so there's been discuss
 * 0 of 2 (0%) Ayush
 * 0 of 3 (0%) Joe
 * 0 of 3 (0%) Will
-* 0 of 4 (0%) Clarke
+* 0 of 5 (0%) Clarke
 * 0 of 6 (0%) Kumanan
-* 0 of 6 (0%) Andy
-* 0 of 6 (0%) Jen
 * 0 of 6 (0%) Adam
 * 0 of 6 (0%) Russ
+* 0 of 7 (0%) Andy
+* 0 of 7 (0%) Jen
 * 0 of 9 (0%) Thomas
 * 0 of 12 (0%) Angela
 * 0 of 13 (0%) Beatrice
 * 0 of 13 (0%) Casualjim
-* 0 of 15 (0%) Aaron
+* 0 of 16 (0%) Aaron
 * 0 of 16 (0%) Tiger
 
 #### Money by player  ####
 * [$82.50] Robert
 * [$48.00] Jim
-* [$38.00] Ascander
+* [$38.00] Ascii
 * [$21.00] Ramesh
 * [$18.00] Tony
 * [$15.00] Jeff
@@ -90,10 +90,10 @@ FSEP 1. Ideally we would have about one winner per month so there's been discuss
 * [$5.50] Tom
 
 #### Players per game  ####
-* Average: 14.05
-* Std dev: 2.75
+* Average: 13.86
+* Std dev: 2.82
 * Minimum: 8
 * Maximum: 18
 
 ### Money in the pot ###
-* $8
+* $18
