@@ -34,34 +34,36 @@ FSEP 1. Ideally we would have about one winner per month so there's been discuss
    move the tape further away from the bell.
 
 ####  Players' records  ####
-* 1 of 3 (33%) Stew
+* 1 of 3 (33%) Katie
 * 1 of 4 (25%) Gregg
+* 1 of 4 (25%) Stew
 * 3 of 14 (21%) Ramesh
-* 4 of 23 (17%) Robert
+* 4 of 24 (17%) Robert
+* 2 of 14 (14%) Tony
 * 1 of 8 (12%) Colin
-* 1 of 10 (10%) Tom
-* 2 of 22 (9%) Ascii
-* 1 of 13 (8%) Tony
+* 1 of 11 (9%) Tom
+* 2 of 23 (9%) Ascii
+* 1 of 14 (7%) Casualjim
 * 1 of 17 (6%) Alex
 * 1 of 17 (6%) Rami
-* 1 of 18 (6%) Erin
-* 1 of 21 (5%) Jeff
-* 1 of 22 (5%) Jim
+* 1 of 19 (5%) Erin
+* 1 of 22 (5%) Jeff
+* 1 of 23 (4%) Jim
 * 0 of 1 (0%) Tony_S
 * 0 of 1 (0%) Russell
 * 0 of 1 (0%) Yuvi
 * 0 of 1 (0%) Jan
+* 0 of 1 (0%) Caitlin
 * 0 of 1 (0%) Ben
 * 0 of 1 (0%) Man
-* 0 of 1 (0%) Chiao
-* 0 of 2 (0%) Katie
 * 0 of 2 (0%) Mark
 * 0 of 2 (0%) Cody
 * 0 of 2 (0%) Hannah
 * 0 of 2 (0%) James
 * 0 of 2 (0%) Ayush
-* 0 of 3 (0%) Joe
+* 0 of 2 (0%) Chiao
 * 0 of 3 (0%) Will
+* 0 of 4 (0%) Joe
 * 0 of 6 (0%) Kumanan
 * 0 of 6 (0%) Russ
 * 0 of 7 (0%) Adam
@@ -69,32 +71,33 @@ FSEP 1. Ideally we would have about one winner per month so there's been discuss
 * 0 of 8 (0%) Andy
 * 0 of 8 (0%) Jen
 * 0 of 9 (0%) Thomas
-* 0 of 13 (0%) Casualjim
 * 0 of 14 (0%) Angela
-* 0 of 17 (0%) Beatrice
-* 0 of 19 (0%) Aaron
-* 0 of 19 (0%) Tiger
+* 0 of 18 (0%) Beatrice
+* 0 of 20 (0%) Aaron
+* 0 of 20 (0%) Tiger
 
 #### Money by player  ####
 * [$82.50] Robert
 * [$74.00] Ramesh
 * [$48.00] Jim
 * [$38.00] Ascii
-* [$18.00] Tony
+* [$26.67] Tony
 * [$15.00] Jeff
 * [$15.00] Alex
 * [$13.00] Erin
 * [$10.00] Stew
+* [$8.67] Casualjim
+* [$8.67] Katie
 * [$8.00] Gregg
 * [$7.50] Rami
 * [$5.50] Colin
 * [$5.50] Tom
 
 #### Players per game  ####
-* Average: 13.46
-* Std dev: 2.79
+* Average: 13.56
+* Std dev: 2.78
 * Minimum: 8
 * Maximum: 18
 
 ### Money in the pot ###
-* $10
+* $0
