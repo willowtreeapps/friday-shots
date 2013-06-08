@@ -87,11 +87,11 @@
       "casualjim": false, 
       "angela": false, 
       "tiger": false, 
-      "joe": false, 
+      "rami": false, 
       "tony": false, 
       "katie": false, 
       "ascii": false, 
-      "rami": false
+      "joe": false
     }
   }, 
   {
@@ -264,14 +264,14 @@
     "date": "2013-01-11", 
     "results": {
       "tiger": false, 
+      "joe": false, 
       "beatrice": false, 
       "jeff": true, 
       "robert": true, 
       "jim": false, 
-      "adam": false, 
       "erin": false, 
       "aaron": false, 
-      "joe": false, 
+      "adam": false, 
       "tony": false, 
       "russ": false, 
       "man": false, 
@@ -479,17 +479,17 @@
     "date": "2013-04-19", 
     "results": {
       "tiger": false, 
-      "joe": false, 
       "beatrice": false, 
       "chiao": false, 
       "jeff": false, 
+      "stew": false, 
       "robert": false, 
       "jim": false, 
       "casualjim": true, 
       "caitlin": false, 
       "erin": false, 
       "aaron": false, 
-      "stew": false, 
+      "joe": false, 
       "tom": false, 
       "tony": true, 
       "ascii": false, 
@@ -532,22 +532,46 @@
   {
     "date": "2013-05-10", 
     "results": {
-      "jeff": false, 
       "tiger": false, 
       "ramesh": false, 
       "beatrice": false, 
-      "greg": false, 
+      "jeff": false, 
       "robert": false, 
       "jim": false, 
+      "casualjim": false, 
       "caitlin": false, 
       "erin": false, 
-      "casualjim": false, 
       "aaron": false, 
+      "greg": false, 
       "rami": false, 
       "tony": false, 
       "ascii": false, 
-      "katie": true,
-      "clarke": false
+      "clarke": false, 
+      "katie": true
+    }
+  }, 
+  {
+    "date": "2013-06-07", 
+    "results": {}
+  }, 
+  {
+    "date": "2013-06-07", 
+    "results": {
+      "erin": false, 
+      "ramesh": false, 
+      "beatrice": false, 
+      "jeff": false, 
+      "james": false, 
+      "jim": false, 
+      "angela": false, 
+      "caitlin": false, 
+      "steve": false, 
+      "ivan": false, 
+      "greg": false, 
+      "rami": false, 
+      "tony": false, 
+      "ascii": false, 
+      "jen": false
     }
   }
 ]
