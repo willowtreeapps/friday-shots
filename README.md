@@ -243,3 +243,75 @@ FSEP 1. Ideally we would have about one winner per month so there's been discuss
 
 ### Money in the pot ###
 * $15
+####  Players' records  ####
+* 2 of 6 (33%) Katie
+* 3 of 11 (27%) Clarke
+* 1 of 4 (25%) Stew
+* 4 of 20 (20%) Ramesh
+* 5 of 28 (18%) Robert
+* 3 of 21 (14%) Tony
+* 1 of 8 (12%) Colin
+* 3 of 30 (10%) Ascii
+* 2 of 24 (8%) Erin
+* 1 of 13 (8%) Tom
+* 1 of 17 (6%) Alex
+* 1 of 19 (5%) Casualjim
+* 1 of 20 (5%) Rami
+* 1 of 25 (4%) Jeff
+* 1 of 29 (3%) Jim
+* 0 of 1 (0%) Tony_S
+* 0 of 1 (0%) Russell
+* 0 of 1 (0%) Yuvi
+* 0 of 1 (0%) Jan
+* 0 of 1 (0%) Ben
+* 0 of 1 (0%) Man
+* 0 of 1 (0%) Ivan
+* 0 of 2 (0%) Mark
+* 0 of 2 (0%) Huan
+* 0 of 2 (0%) Cody
+* 0 of 2 (0%) Hannah
+* 0 of 2 (0%) Jonathan
+* 0 of 2 (0%) Chiao
+* 0 of 3 (0%) Ayush
+* 0 of 3 (0%) Will
+* 0 of 4 (0%) Joe
+* 0 of 4 (0%) Steve
+* 0 of 4 (0%) James
+* 0 of 4 (0%) Greg
+* 0 of 6 (0%) Kumanan
+* 0 of 7 (0%) Adam
+* 0 of 7 (0%) Russ
+* 0 of 8 (0%) Andy
+* 0 of 8 (0%) Caitlin
+* 0 of 9 (0%) Thomas
+* 0 of 11 (0%) Jen
+* 0 of 17 (0%) Angela
+* 0 of 22 (0%) Tiger
+* 0 of 23 (0%) Beatrice
+* 0 of 25 (0%) Aaron
+
+#### Money by player  ####
+* [$86.75] Ramesh
+* [$86.25] Robert
+* [$54.00] Ascii
+* [$48.00] Jim
+* [$34.75] Clarke
+* [$32.42] Tony
+* [$26.00] Erin
+* [$24.67] Katie
+* [$15.00] Alex
+* [$15.00] Jeff
+* [$10.00] Stew
+* [$8.67] Casualjim
+* [$7.50] Rami
+* [$5.00] Colin
+* [$5.00] Tom
+
+#### Players per game  ####
+* Average: 13.50
+* Std dev: 2.66
+* Minimum: 8
+* Maximum: 18
+
+### Money in the pot ###
+* $0
