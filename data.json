@@ -605,7 +605,7 @@
       "huan": false, 
       "greg": false, 
       "tom": false, 
-      "ivan": false, 
+      "casualjim": false, 
       "jonathan": false, 
       "jen": false, 
       "ayush": false, 
@@ -776,6 +776,30 @@
       "tony": true, 
       "jonathan": false, 
       "ascii": true, 
+      "katie": false
+    }
+  },
+  {
+    "date": "2013-10-18", 
+    "results": {
+      "steve": false, 
+      "jose": false, 
+      "cody": false, 
+      "patrick": false, 
+      "robert": false, 
+      "beatrice": false, 
+      "willc": false, 
+      "angela": false, 
+      "caitlin": false, 
+      "erin": false, 
+      "casualjim": false, 
+      "stew": false, 
+      "tina": false, 
+      "chiao": false, 
+      "tony": false, 
+      "russ": false, 
+      "jonathan": false, 
+      "ascii": false, 
       "katie": false
     }
   }

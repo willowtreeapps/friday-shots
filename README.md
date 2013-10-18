@@ -34,725 +34,66 @@ FSEP 1. Ideally we would have about one winner per month so there's been discuss
    move the tape further away from the bell.
 
 ####  Players' records  ####
-* 2 of 5 (40%) Katie
-* 1 of 4 (25%) Stew
-* 4 of 17 (24%) Ramesh
-* 5 of 27 (19%) Robert
-* 3 of 17 (18%) Tony
-* 1 of 8 (12%) Colin
-* 1 of 9 (11%) Clarke
-* 1 of 12 (8%) Tom
-* 2 of 26 (8%) Ascii
-* 1 of 17 (6%) Alex
-* 1 of 17 (6%) Casualjim
-* 1 of 18 (6%) Rami
-* 1 of 20 (5%) Erin
-* 1 of 24 (4%) Jeff
-* 1 of 26 (4%) Jim
-* 0 of 1 (0%) Tony_S
-* 0 of 1 (0%) Russell
-* 0 of 1 (0%) Yuvi
-* 0 of 1 (0%) Jan
-* 0 of 1 (0%) Ben
-* 0 of 1 (0%) Man
-* 0 of 1 (0%) Greg
-* 0 of 2 (0%) Mark
-* 0 of 2 (0%) Cody
-* 0 of 2 (0%) Hannah
-* 0 of 2 (0%) Ayush
-* 0 of 2 (0%) Chiao
-* 0 of 3 (0%) James
-* 0 of 3 (0%) Will
-* 0 of 4 (0%) Caitlin
-* 0 of 4 (0%) Joe
-* 0 of 6 (0%) Kumanan
-* 0 of 6 (0%) Russ
-* 0 of 7 (0%) Adam
-* 0 of 8 (0%) Andy
-* 0 of 8 (0%) Jen
-* 0 of 9 (0%) Thomas
-* 0 of 14 (0%) Angela
-* 0 of 20 (0%) Beatrice
-* 0 of 22 (0%) Tiger
-* 0 of 23 (0%) Aaron
-
-#### Money by player  ####
-* [$86.75] Ramesh
-* [$86.25] Robert
-* [$48.00] Jim
-* [$38.00] Ascii
-* [$32.42] Tony
-* [$24.67] Katie
-* [$15.00] Alex
-* [$15.00] Jeff
-* [$13.00] Erin
-* [$10.00] Stew
-* [$8.67] Casualjim
-* [$7.50] Rami
-* [$5.75] Clarke
-* [$5.00] Colin
-* [$5.00] Tom
-
-#### Players per game  ####
-* Average: 13.37
-* Std dev: 2.69
-* Minimum: 8
-* Maximum: 18
-
-### Money in the pot ###
-* $0
-####  Players' records  ####
-* 2 of 5 (40%) Katie
-* 1 of 4 (25%) Stew
-* 4 of 18 (22%) Ramesh
-* 5 of 27 (19%) Robert
-* 3 of 18 (17%) Tony
-* 1 of 8 (12%) Colin
-* 1 of 9 (11%) Clarke
-* 1 of 12 (8%) Tom
-* 2 of 27 (7%) Ascii
-* 1 of 17 (6%) Alex
-* 1 of 17 (6%) Casualjim
-* 1 of 19 (5%) Rami
-* 1 of 21 (5%) Erin
-* 1 of 25 (4%) Jeff
-* 1 of 27 (4%) Jim
-* 0 of 1 (0%) Tony_S
-* 0 of 1 (0%) Russell
-* 0 of 1 (0%) Yuvi
-* 0 of 1 (0%) Jan
-* 0 of 1 (0%) Ben
-* 0 of 1 (0%) Man
-* 0 of 1 (0%) Steve
-* 0 of 1 (0%) Ivan
-* 0 of 2 (0%) Mark
-* 0 of 2 (0%) Cody
-* 0 of 2 (0%) Hannah
-* 0 of 2 (0%) Ayush
-* 0 of 2 (0%) Greg
-* 0 of 2 (0%) Chiao
-* 0 of 3 (0%) Will
-* 0 of 4 (0%) Joe
-* 0 of 4 (0%) James
-* 0 of 5 (0%) Caitlin
-* 0 of 6 (0%) Kumanan
-* 0 of 6 (0%) Russ
-* 0 of 7 (0%) Adam
-* 0 of 8 (0%) Andy
-* 0 of 9 (0%) Thomas
-* 0 of 9 (0%) Jen
-* 0 of 15 (0%) Angela
-* 0 of 21 (0%) Beatrice
-* 0 of 22 (0%) Tiger
-* 0 of 23 (0%) Aaron
-
-#### Money by player  ####
-* [$86.75] Ramesh
-* [$86.25] Robert
-* [$48.00] Jim
-* [$38.00] Ascii
-* [$32.42] Tony
-* [$24.67] Katie
-* [$15.00] Alex
-* [$15.00] Jeff
-* [$13.00] Erin
-* [$10.00] Stew
-* [$8.67] Casualjim
-* [$7.50] Rami
-* [$5.75] Clarke
-* [$5.00] Colin
-* [$5.00] Tom
-
-#### Players per game  ####
-* Average: 13.00
-* Std dev: 3.51
-* Minimum: 0
-* Maximum: 18
-
-### Money in the pot ###
-* $15
-####  Players' records  ####
-* 2 of 5 (40%) Katie
-* 1 of 4 (25%) Stew
-* 4 of 19 (21%) Ramesh
-* 2 of 10 (20%) Clarke
-* 5 of 28 (18%) Robert
-* 3 of 20 (15%) Tony
-* 1 of 8 (12%) Colin
-* 3 of 29 (10%) Ascii
-* 1 of 13 (8%) Tom
-* 1 of 17 (6%) Alex
-* 1 of 19 (5%) Casualjim
-* 1 of 20 (5%) Rami
-* 1 of 23 (4%) Erin
-* 1 of 25 (4%) Jeff
-* 1 of 29 (3%) Jim
-* 0 of 1 (0%) Tony_S
-* 0 of 1 (0%) Russell
-* 0 of 1 (0%) Yuvi
-* 0 of 1 (0%) Jan
-* 0 of 1 (0%) Ben
-* 0 of 1 (0%) Man
-* 0 of 1 (0%) Jonathan
-* 0 of 1 (0%) Ivan
-* 0 of 2 (0%) Mark
-* 0 of 2 (0%) Huan
-* 0 of 2 (0%) Cody
-* 0 of 2 (0%) Hannah
-* 0 of 2 (0%) Chiao
-* 0 of 3 (0%) Steve
-* 0 of 3 (0%) Ayush
-* 0 of 3 (0%) Will
-* 0 of 4 (0%) Joe
-* 0 of 4 (0%) James
-* 0 of 4 (0%) Greg
-* 0 of 6 (0%) Kumanan
-* 0 of 6 (0%) Russ
-* 0 of 7 (0%) Adam
-* 0 of 7 (0%) Caitlin
-* 0 of 8 (0%) Andy
-* 0 of 9 (0%) Thomas
-* 0 of 11 (0%) Jen
-* 0 of 17 (0%) Angela
-* 0 of 22 (0%) Tiger
-* 0 of 23 (0%) Beatrice
-* 0 of 24 (0%) Aaron
-
-#### Money by player  ####
-* [$86.75] Ramesh
-* [$86.25] Robert
-* [$54.00] Ascii
-* [$48.00] Jim
-* [$32.42] Tony
-* [$24.67] Katie
-* [$21.75] Clarke
-* [$15.00] Alex
-* [$15.00] Jeff
-* [$13.00] Erin
-* [$10.00] Stew
-* [$8.67] Casualjim
-* [$7.50] Rami
-* [$5.00] Colin
-* [$5.00] Tom
-
-#### Players per game  ####
-* Average: 13.58
-* Std dev: 2.66
-* Minimum: 8
-* Maximum: 18
-
-### Money in the pot ###
-* $15
-####  Players' records  ####
-* 2 of 6 (33%) Katie
-* 3 of 11 (27%) Clarke
-* 1 of 4 (25%) Stew
-* 4 of 20 (20%) Ramesh
-* 5 of 28 (18%) Robert
-* 3 of 21 (14%) Tony
-* 1 of 8 (12%) Colin
-* 3 of 30 (10%) Ascii
-* 2 of 24 (8%) Erin
-* 1 of 13 (8%) Tom
-* 1 of 17 (6%) Alex
-* 1 of 19 (5%) Casualjim
-* 1 of 20 (5%) Rami
-* 1 of 25 (4%) Jeff
-* 1 of 29 (3%) Jim
-* 0 of 1 (0%) Tony_S
-* 0 of 1 (0%) Russell
-* 0 of 1 (0%) Yuvi
-* 0 of 1 (0%) Jan
-* 0 of 1 (0%) Ben
-* 0 of 1 (0%) Man
-* 0 of 1 (0%) Ivan
-* 0 of 2 (0%) Mark
-* 0 of 2 (0%) Huan
-* 0 of 2 (0%) Cody
-* 0 of 2 (0%) Hannah
-* 0 of 2 (0%) Jonathan
-* 0 of 2 (0%) Chiao
-* 0 of 3 (0%) Ayush
-* 0 of 3 (0%) Will
-* 0 of 4 (0%) Joe
-* 0 of 4 (0%) Steve
-* 0 of 4 (0%) James
-* 0 of 4 (0%) Greg
-* 0 of 6 (0%) Kumanan
-* 0 of 7 (0%) Adam
-* 0 of 7 (0%) Russ
-* 0 of 8 (0%) Andy
-* 0 of 8 (0%) Caitlin
-* 0 of 9 (0%) Thomas
-* 0 of 11 (0%) Jen
-* 0 of 17 (0%) Angela
-* 0 of 22 (0%) Tiger
-* 0 of 23 (0%) Beatrice
-* 0 of 25 (0%) Aaron
-
-#### Money by player  ####
-* [$86.75] Ramesh
-* [$86.25] Robert
-* [$54.00] Ascii
-* [$48.00] Jim
-* [$34.75] Clarke
-* [$32.42] Tony
-* [$26.00] Erin
-* [$24.67] Katie
-* [$15.00] Alex
-* [$15.00] Jeff
-* [$10.00] Stew
-* [$8.67] Casualjim
-* [$7.50] Rami
-* [$5.00] Colin
-* [$5.00] Tom
-
-#### Players per game  ####
-* Average: 13.50
-* Std dev: 2.66
-* Minimum: 8
-* Maximum: 18
-
-### Money in the pot ###
-* $0
-####  Players' records  ####
-* 2 of 6 (33%) Katie
-* 3 of 11 (27%) Clarke
-* 1 of 4 (25%) Stew
-* 4 of 21 (19%) Ramesh
-* 5 of 28 (18%) Robert
-* 3 of 22 (14%) Tony
-* 1 of 8 (12%) Colin
-* 3 of 31 (10%) Ascii
-* 2 of 25 (8%) Erin
-* 1 of 13 (8%) Tom
-* 1 of 17 (6%) Alex
-* 1 of 19 (5%) Casualjim
-* 1 of 20 (5%) Rami
-* 1 of 25 (4%) Jeff
-* 1 of 29 (3%) Jim
-* 0 of 1 (0%) Tony_S
-* 0 of 1 (0%) Russell
-* 0 of 1 (0%) Yuvi
-* 0 of 1 (0%) Jan
-* 0 of 1 (0%) Tina
-* 0 of 1 (0%) Ben
-* 0 of 1 (0%) Man
-* 0 of 1 (0%) Ivan
-* 0 of 2 (0%) Mark
-* 0 of 2 (0%) Huan
-* 0 of 2 (0%) Cody
-* 0 of 2 (0%) Hannah
-* 0 of 2 (0%) Chiao
-* 0 of 3 (0%) Jonathan
-* 0 of 3 (0%) Will
-* 0 of 4 (0%) Joe
-* 0 of 4 (0%) James
-* 0 of 4 (0%) Ayush
-* 0 of 5 (0%) Steve
-* 0 of 5 (0%) Greg
-* 0 of 6 (0%) Kumanan
-* 0 of 7 (0%) Adam
-* 0 of 7 (0%) Russ
-* 0 of 8 (0%) Andy
-* 0 of 8 (0%) Caitlin
-* 0 of 9 (0%) Thomas
-* 0 of 12 (0%) Jen
-* 0 of 18 (0%) Angela
-* 0 of 22 (0%) Tiger
-* 0 of 24 (0%) Beatrice
-* 0 of 26 (0%) Aaron
-
-#### Money by player  ####
-* [$86.75] Ramesh
-* [$86.25] Robert
-* [$54.00] Ascii
-* [$48.00] Jim
-* [$34.75] Clarke
-* [$32.42] Tony
-* [$26.00] Erin
-* [$24.67] Katie
-* [$15.00] Alex
-* [$15.00] Jeff
-* [$10.00] Stew
-* [$8.67] Casualjim
-* [$7.50] Rami
-* [$5.00] Colin
-* [$5.00] Tom
-
-#### Players per game  ####
-* Average: 13.49
-* Std dev: 2.62
-* Minimum: 8
-* Maximum: 18
-
-### Money in the pot ###
-* $13
-####  Players' records  ####
-* 2 of 6 (33%) Katie
-* 1 of 4 (25%) Stew
-* 3 of 12 (25%) Clarke
-* 4 of 22 (18%) Ramesh
-* 5 of 28 (18%) Robert
-* 1 of 6 (17%) Greg
-* 3 of 23 (13%) Tony
-* 1 of 8 (12%) Colin
-* 2 of 20 (10%) Casualjim
-* 3 of 32 (9%) Ascii
-* 1 of 13 (8%) Tom
-* 2 of 26 (8%) Erin
-* 1 of 17 (6%) Alex
-* 1 of 21 (5%) Rami
-* 1 of 25 (4%) Jeff
-* 1 of 29 (3%) Jim
-* 0 of 1 (0%) Tony_S
-* 0 of 1 (0%) Russell
-* 0 of 1 (0%) Yuvi
-* 0 of 1 (0%) Jan
-* 0 of 1 (0%) Tina
-* 0 of 1 (0%) Ashesh
-* 0 of 1 (0%) Ben
-* 0 of 1 (0%) Man
-* 0 of 1 (0%) Ivan
-* 0 of 2 (0%) Mark
-* 0 of 2 (0%) Huan
-* 0 of 2 (0%) Cody
-* 0 of 2 (0%) Hannah
-* 0 of 2 (0%) Chiao
-* 0 of 3 (0%) Jonathan
-* 0 of 3 (0%) Will
-* 0 of 4 (0%) Joe
-* 0 of 4 (0%) James
-* 0 of 5 (0%) Ayush
-* 0 of 6 (0%) Kumanan
-* 0 of 6 (0%) Steve
-* 0 of 7 (0%) Adam
-* 0 of 7 (0%) Russ
-* 0 of 8 (0%) Andy
-* 0 of 8 (0%) Caitlin
-* 0 of 9 (0%) Thomas
-* 0 of 12 (0%) Jen
-* 0 of 19 (0%) Angela
-* 0 of 22 (0%) Tiger
-* 0 of 25 (0%) Beatrice
-* 0 of 27 (0%) Aaron
-
-#### Money by player  ####
-* [$86.75] Ramesh
-* [$86.25] Robert
-* [$54.00] Ascii
-* [$48.00] Jim
-* [$34.75] Clarke
-* [$32.42] Tony
-* [$26.00] Erin
-* [$24.67] Katie
-* [$22.17] Casualjim
-* [$15.00] Alex
-* [$15.00] Jeff
-* [$13.50] Greg
-* [$10.00] Stew
-* [$7.50] Rami
-* [$5.00] Colin
-* [$5.00] Tom
-
-#### Players per game  ####
-* Average: 13.50
-* Std dev: 2.59
-* Minimum: 8
-* Maximum: 18
-
-### Money in the pot ###
-* $0
-####  Players' records  ####
-* 2 of 6 (33%) Katie
-* 1 of 4 (25%) Stew
-* 3 of 12 (25%) Clarke
-* 4 of 22 (18%) Ramesh
-* 5 of 28 (18%) Robert
-* 1 of 7 (14%) Greg
-* 1 of 8 (12%) Colin
-* 3 of 24 (12%) Tony
-* 2 of 21 (10%) Casualjim
-* 3 of 33 (9%) Ascii
-* 2 of 26 (8%) Erin
-* 1 of 14 (7%) Tom
-* 1 of 17 (6%) Alex
-* 1 of 22 (5%) Rami
-* 1 of 25 (4%) Jeff
-* 1 of 30 (3%) Jim
-* 0 of 1 (0%) Tony_S
-* 0 of 1 (0%) Russell
-* 0 of 1 (0%) Yuvi
-* 0 of 1 (0%) Jan
-* 0 of 1 (0%) Ashesh
-* 0 of 1 (0%) Kelsey
-* 0 of 1 (0%) Ben
-* 0 of 1 (0%) Man
-* 0 of 1 (0%) Ivan
-* 0 of 2 (0%) Mark
-* 0 of 2 (0%) Tina
-* 0 of 2 (0%) Huan
-* 0 of 2 (0%) Hannah
-* 0 of 2 (0%) Chiao
-* 0 of 3 (0%) Cody
-* 0 of 3 (0%) Will
-* 0 of 4 (0%) Joe
-* 0 of 4 (0%) Jonathan
-* 0 of 4 (0%) James
-* 0 of 5 (0%) Ayush
-* 0 of 6 (0%) Kumanan
-* 0 of 7 (0%) Adam
-* 0 of 7 (0%) Steve
-* 0 of 7 (0%) Russ
-* 0 of 8 (0%) Andy
-* 0 of 9 (0%) Thomas
-* 0 of 9 (0%) Caitlin
-* 0 of 13 (0%) Jen
-* 0 of 20 (0%) Angela
-* 0 of 22 (0%) Tiger
-* 0 of 26 (0%) Beatrice
-* 0 of 28 (0%) Aaron
-
-#### Money by player  ####
-* [$86.75] Ramesh
-* [$86.25] Robert
-* [$54.00] Ascii
-* [$48.00] Jim
-* [$34.75] Clarke
-* [$32.42] Tony
-* [$26.00] Erin
-* [$24.67] Katie
-* [$22.17] Casualjim
-* [$15.00] Alex
-* [$15.00] Jeff
-* [$13.50] Greg
-* [$10.00] Stew
-* [$7.50] Rami
-* [$5.00] Colin
-* [$5.00] Tom
-
-#### Players per game  ####
-* Average: 13.59
-* Std dev: 2.61
-* Minimum: 8
-* Maximum: 18
-
-### Money in the pot ###
-* $17
-####  Players' records  ####
-* 2 of 6 (33%) Katie
-* 1 of 4 (25%) Stew
-* 3 of 13 (23%) Clarke
-* 4 of 22 (18%) Ramesh
-* 5 of 28 (18%) Robert
-* 1 of 8 (12%) Colin
-* 1 of 8 (12%) Greg
-* 3 of 24 (12%) Tony
-* 2 of 21 (10%) Casualjim
-* 3 of 34 (9%) Ascii
-* 2 of 27 (7%) Erin
-* 1 of 14 (7%) Tom
-* 1 of 17 (6%) Alex
-* 1 of 22 (5%) Rami
-* 1 of 25 (4%) Jeff
-* 1 of 31 (3%) Jim
-* 0 of 1 (0%) Tony_S
-* 0 of 1 (0%) Russell
-* 0 of 1 (0%) Yuvi
-* 0 of 1 (0%) Jan
-* 0 of 1 (0%) Ashesh
-* 0 of 1 (0%) Ben
-* 0 of 1 (0%) Man
-* 0 of 1 (0%) Ivan
-* 0 of 2 (0%) Mark
-* 0 of 2 (0%) Huan
-* 0 of 2 (0%) Hannah
-* 0 of 2 (0%) Kelsey
-* 0 of 2 (0%) Chiao
-* 0 of 3 (0%) Tina
-* 0 of 3 (0%) Cody
-* 0 of 3 (0%) Will
-* 0 of 4 (0%) Joe
-* 0 of 4 (0%) Jonathan
-* 0 of 5 (0%) James
-* 0 of 5 (0%) Ayush
-* 0 of 6 (0%) Kumanan
-* 0 of 7 (0%) Adam
-* 0 of 7 (0%) Russ
-* 0 of 8 (0%) Andy
-* 0 of 8 (0%) Steve
-* 0 of 9 (0%) Thomas
-* 0 of 10 (0%) Caitlin
-* 0 of 13 (0%) Jen
-* 0 of 21 (0%) Angela
-* 0 of 22 (0%) Tiger
-* 0 of 26 (0%) Beatrice
-* 0 of 28 (0%) Aaron
-
-#### Money by player  ####
-* [$86.75] Ramesh
-* [$86.25] Robert
-* [$54.00] Ascii
-* [$48.00] Jim
-* [$34.75] Clarke
-* [$32.42] Tony
-* [$26.00] Erin
-* [$24.67] Katie
-* [$22.17] Casualjim
-* [$15.00] Alex
-* [$15.00] Jeff
-* [$13.50] Greg
-* [$10.00] Stew
-* [$7.50] Rami
-* [$5.00] Colin
-* [$5.00] Tom
-
-#### Players per game  ####
-* Average: 13.53
-* Std dev: 2.61
-* Minimum: 8
-* Maximum: 18
-
-### Money in the pot ###
-* $28
-####  Players' records  ####
-* 2 of 7 (29%) Katie
-* 1 of 4 (25%) Stew
-* 3 of 14 (21%) Clarke
-* 4 of 22 (18%) Ramesh
-* 5 of 28 (18%) Robert
-* 1 of 8 (12%) Colin
-* 3 of 25 (12%) Tony
-* 1 of 9 (11%) Greg
-* 2 of 21 (10%) Casualjim
-* 3 of 35 (9%) Ascii
-* 1 of 14 (7%) Tom
-* 2 of 28 (7%) Erin
-* 1 of 17 (6%) Alex
-* 1 of 23 (4%) Rami
-* 1 of 25 (4%) Jeff
-* 1 of 29 (3%) Aaron
-* 1 of 31 (3%) Jim
-* 0 of 1 (0%) Tony_S
-* 0 of 1 (0%) Russell
-* 0 of 1 (0%) Yuvi
-* 0 of 1 (0%) Jan
-* 0 of 1 (0%) Ashesh
-* 0 of 1 (0%) Patrick
-* 0 of 1 (0%) Ben
-* 0 of 1 (0%) Man
-* 0 of 1 (0%) Ivan
-* 0 of 2 (0%) Mark
-* 0 of 2 (0%) Huan
-* 0 of 2 (0%) Hannah
-* 0 of 2 (0%) Chiao
-* 0 of 3 (0%) Cody
-* 0 of 3 (0%) Kelsey
-* 0 of 3 (0%) Will
-* 0 of 4 (0%) Tina
-* 0 of 5 (0%) Joe
-* 0 of 5 (0%) Jonathan
-* 0 of 5 (0%) James
-* 0 of 5 (0%) Ayush
-* 0 of 6 (0%) Kumanan
-* 0 of 7 (0%) Adam
-* 0 of 7 (0%) Russ
-* 0 of 8 (0%) Andy
-* 0 of 9 (0%) Thomas
-* 0 of 9 (0%) Steve
-* 0 of 11 (0%) Caitlin
-* 0 of 13 (0%) Jen
-* 0 of 22 (0%) Angela
-* 0 of 22 (0%) Tiger
-* 0 of 27 (0%) Beatrice
-
-#### Money by player  ####
-* [$86.75] Ramesh
-* [$86.25] Robert
-* [$54.00] Ascii
-* [$48.00] Jim
-* [$45.00] Aaron
-* [$34.75] Clarke
-* [$32.42] Tony
-* [$26.00] Erin
-* [$24.67] Katie
-* [$22.17] Casualjim
-* [$15.00] Alex
-* [$15.00] Jeff
-* [$13.50] Greg
-* [$10.00] Stew
-* [$7.50] Rami
-* [$5.00] Colin
-* [$5.00] Tom
-
-#### Players per game  ####
-* Average: 13.62
-* Std dev: 2.64
-* Minimum: 8
-* Maximum: 18
-
-### Money in the pot ###
-* $0
-####  Players' records  ####
-* 1 of 4 (25%) Stew
-* 2 of 8 (25%) Katie
-* 3 of 15 (20%) Clarke
-* 5 of 28 (18%) Robert
+* 1 of 5 (20%) Stew
+* 2 of 10 (20%) Katie
+* 3 of 16 (19%) Clarke
 * 4 of 23 (17%) Ramesh
+* 5 of 29 (17%) Robert
+* 4 of 28 (14%) Tony
+* 5 of 38 (13%) Ascii
 * 1 of 8 (12%) Colin
-* 3 of 26 (12%) Tony
-* 4 of 36 (11%) Ascii
-* 1 of 10 (10%) Greg
-* 2 of 22 (9%) Casualjim
-* 1 of 14 (7%) Tom
-* 2 of 29 (7%) Erin
+* 1 of 11 (9%) Greg
+* 1 of 12 (8%) Steve
+* 2 of 25 (8%) Casualjim
+* 1 of 15 (7%) Tom
+* 2 of 30 (7%) Erin
 * 1 of 17 (6%) Alex
-* 1 of 24 (4%) Rami
 * 1 of 25 (4%) Jeff
-* 1 of 30 (3%) Aaron
+* 1 of 25 (4%) Rami
 * 1 of 31 (3%) Jim
+* 1 of 31 (3%) Aaron
 * 0 of 1 (0%) Tony_S
 * 0 of 1 (0%) Russell
 * 0 of 1 (0%) Yuvi
 * 0 of 1 (0%) Jan
 * 0 of 1 (0%) Ashesh
-* 0 of 1 (0%) Patrick
 * 0 of 1 (0%) Matt
 * 0 of 1 (0%) Ben
 * 0 of 1 (0%) Man
-* 0 of 1 (0%) Ivan
+* 0 of 2 (0%) Jose
 * 0 of 2 (0%) Mark
 * 0 of 2 (0%) Huan
+* 0 of 2 (0%) Willc
 * 0 of 2 (0%) Hannah
-* 0 of 2 (0%) Chiao
-* 0 of 3 (0%) Cody
+* 0 of 3 (0%) Patrick
 * 0 of 3 (0%) Will
-* 0 of 4 (0%) Kelsey
-* 0 of 5 (0%) Tina
+* 0 of 4 (0%) Cody
+* 0 of 4 (0%) Chiao
+* 0 of 5 (0%) Kelsey
 * 0 of 5 (0%) Joe
-* 0 of 5 (0%) James
 * 0 of 5 (0%) Ayush
 * 0 of 6 (0%) Kumanan
-* 0 of 6 (0%) Jonathan
-* 0 of 7 (0%) Russ
+* 0 of 6 (0%) James
+* 0 of 7 (0%) Tina
 * 0 of 8 (0%) Andy
 * 0 of 8 (0%) Adam
+* 0 of 8 (0%) Jonathan
+* 0 of 8 (0%) Russ
 * 0 of 9 (0%) Thomas
-* 0 of 10 (0%) Steve
-* 0 of 12 (0%) Caitlin
-* 0 of 13 (0%) Jen
+* 0 of 14 (0%) Jen
+* 0 of 14 (0%) Caitlin
 * 0 of 22 (0%) Tiger
-* 0 of 23 (0%) Angela
-* 0 of 28 (0%) Beatrice
+* 0 of 25 (0%) Angela
+* 0 of 29 (0%) Beatrice
 
 #### Money by player  ####
 * [$86.75] Ramesh
 * [$86.25] Robert
-* [$73.00] Ascii
+* [$80.00] Ascii
 * [$48.00] Jim
 * [$45.00] Aaron
+* [$39.42] Tony
 * [$34.75] Clarke
-* [$32.42] Tony
 * [$26.00] Erin
 * [$24.67] Katie
 * [$22.17] Casualjim
@@ -761,14 +102,15 @@ FSEP 1. Ideally we would have about one winner per month so there's been discuss
 * [$13.50] Greg
 * [$10.00] Stew
 * [$7.50] Rami
+* [$7.00] Steve
 * [$5.00] Colin
 * [$5.00] Tom
 
 #### Players per game  ####
-* Average: 13.75
-* Std dev: 2.74
-* Minimum: 8
-* Maximum: 19
+* Average: 13.72
+* Std dev: 3.64
+* Minimum: 0
+* Maximum: 21
 
 ### Money in the pot ###
-* $0
+* $19
