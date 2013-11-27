@@ -14,12 +14,10 @@ Rules
 Bell Strikage Success Criteria
 ------------------------------
 1. The participant must have both of his or her feet on the ground, behind the
-   orange tape. The tape must always be lined up with the line in the ceiling
-   that bisects the smallest office's door.
-2. The participant must use one of the two original nerf guns or one of the two orange ones.
-   Only the black-tipped whistler darts can be used.
-3. The dart must strike either the bell's chain or its body, but importantly not
-   the piece of metal attached to the wall or the hinge connecting the bell to
+   gap between Tes and Matt Hewes' desks.
+2. The participant must use the original blue nerf pistol.
+3. The dart must strike either the bell's rope or its body, but importantly not
+   the piece of metal attached to the wall or the arm connecting the bell to
    said piece of metal.
 4. Only bank shots off the back wall (the wall the bell is attached to) count as
    a hit unless the shooter calls "bank". If the shooter calls bank then non-
@@ -29,9 +27,6 @@ Bell Strikage Success Criteria
 
 Friday Shots Enhancement Proposals (FSEPs)
 ------------------------------------------
-FSEP 1. Ideally we would have about one winner per month so there's been discussion
-   of making the shot harder. The most obvious way to make it harder is to
-   move the tape further away from the bell.
 
 ####  Players' records  ####
 
