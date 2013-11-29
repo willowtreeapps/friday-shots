@@ -28,12 +28,36 @@ Bell Strikage Success Criteria
 
 Friday Shots Enhancement Proposals (FSEPs)
 ------------------------------------------
+FSEP 1 - It has been suggested that multiple shots may be purchased on an increasing
+     cost scale - eg 2 shots for $5 - note that this will require modification to the
+     accompanying software.
 
 ####  Players' records  ####
+* 0 of 1 (0%) Blake
+* 0 of 1 (0%) Michaellake
+* 0 of 1 (0%) Gregg
+* 0 of 1 (0%) Christy
+* 0 of 1 (0%) Tobias
+* 0 of 1 (0%) Kathryn
+* 0 of 1 (0%) Tom
+* 0 of 1 (0%) Tyler
+* 0 of 1 (0%) Derek
+* 0 of 1 (0%) Jonnye
+* 0 of 1 (0%) Jossay
+* 0 of 1 (0%) Woody
+* 0 of 1 (0%) Tes
+* 0 of 1 (0%) Eric
+* 0 of 1 (0%) Nate
 
 #### Money by player  ####
 
 #### Players per game  ####
+* Average: 15.00
+* Std dev: 0.00
+* Minimum: 15
+* Maximum: 15
 
 ### Money in the pot ###
+* $15
+
 
