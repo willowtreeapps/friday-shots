@@ -36,18 +36,18 @@ FSEP 1 - It has been suggested that multiple shots may be purchased on an increa
 * 0 of 1 (0%) Blake
 * 0 of 1 (0%) Michaellake
 * 0 of 1 (0%) Gregg
-* 0 of 1 (0%) Christy
+* 0 of 1 (0%) Jossay
+* 0 of 1 (0%) Nate
 * 0 of 1 (0%) Tobias
 * 0 of 1 (0%) Kathryn
-* 0 of 1 (0%) Tom
+* 0 of 1 (0%) Blakeware
 * 0 of 1 (0%) Tyler
 * 0 of 1 (0%) Derek
 * 0 of 1 (0%) Jonnye
-* 0 of 1 (0%) Jossay
+* 0 of 1 (0%) Tom
 * 0 of 1 (0%) Woody
 * 0 of 1 (0%) Tes
-* 0 of 1 (0%) Eric
-* 0 of 1 (0%) Nate
+* 0 of 1 (0%) Christy
 
 #### Money by player  ####
 
@@ -59,5 +59,3 @@ FSEP 1 - It has been suggested that multiple shots may be purchased on an increa
 
 ### Money in the pot ###
 * $15
-
-
