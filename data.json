@@ -3,20 +3,43 @@
     "date": "2013-11-29", 
     "results": {
       "blake": false, 
-      "tom": false, 
+      "woody": false, 
+      "jossay": false, 
       "gregg": false, 
-      "christy": false, 
+      "tom": false, 
       "tobias": false, 
       "kathryn": false, 
-      "blakeware": false, 
       "tyler": false, 
       "derek": false, 
       "jonnye": false, 
-      "jossay": false, 
-      "woody": false, 
+      "christy": false, 
+      "blakeware": false, 
       "tes": false, 
       "nate": false, 
       "michaellake": false
+    }
+  }, 
+  {
+    "date": "2013-12-06", 
+    "results": {
+      "tes": false, 
+      "alex": false, 
+      "michaellake": false, 
+      "gregg": false, 
+      "mattyohe": false, 
+      "kevinsnead": true, 
+      "woodyzantzinger": false, 
+      "jeffpamer": false, 
+      "kathryn": false, 
+      "tyler": false, 
+      "kylebye": false, 
+      "tom": false, 
+      "derek": false, 
+      "trung": false, 
+      "jon": false, 
+      "jesseprehodick": false,
+      "christy": false,
+      "jossay": false
     }
   }
 ]

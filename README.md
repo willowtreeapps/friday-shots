@@ -33,29 +33,39 @@ FSEP 1 - It has been suggested that multiple shots may be purchased on an increa
      accompanying software.
 
 ####  Players' records  ####
+* 1 of 1 (100%) Kevinsnead
+* 0 of 1 (0%) Jeffpamer
+* 0 of 1 (0%) Woody
 * 0 of 1 (0%) Blake
-* 0 of 1 (0%) Michaellake
-* 0 of 1 (0%) Gregg
-* 0 of 1 (0%) Jossay
+* 0 of 1 (0%) Mattyohe
+* 0 of 1 (0%) Woodyzantzinger
+* 0 of 1 (0%) Kylebye
 * 0 of 1 (0%) Nate
 * 0 of 1 (0%) Tobias
-* 0 of 1 (0%) Kathryn
-* 0 of 1 (0%) Blakeware
-* 0 of 1 (0%) Tyler
-* 0 of 1 (0%) Derek
 * 0 of 1 (0%) Jonnye
-* 0 of 1 (0%) Tom
-* 0 of 1 (0%) Woody
-* 0 of 1 (0%) Tes
-* 0 of 1 (0%) Christy
+* 0 of 1 (0%) Trung
+* 0 of 1 (0%) Jon
+* 0 of 1 (0%) Alex
+* 0 of 1 (0%) Blakeware
+* 0 of 1 (0%) Jesseprehodick
+* 0 of 2 (0%) Jossay
+* 0 of 2 (0%) Kathryn
+* 0 of 2 (0%) Tes
+* 0 of 2 (0%) Michaellake
+* 0 of 2 (0%) Tyler
+* 0 of 2 (0%) Derek
+* 0 of 2 (0%) Tom
+* 0 of 2 (0%) Gregg
+* 0 of 2 (0%) Christy
 
 #### Money by player  ####
+* [$33.00] Kevinsnead
 
 #### Players per game  ####
-* Average: 15.00
-* Std dev: 0.00
+* Average: 16.50
+* Std dev: 1.50
 * Minimum: 15
-* Maximum: 15
+* Maximum: 18
 
 ### Money in the pot ###
-* $15
+* $0
