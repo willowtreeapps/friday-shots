@@ -2,65 +2,82 @@
   {
     "date": "2013-11-29", 
     "results": {
+      "christy": false, 
       "blake": false, 
       "michaellake": false, 
       "gregg": false, 
-      "jossay": false, 
-      "nate": false, 
+      "tom": false, 
       "tobias": false, 
       "kathryn": false, 
-      "blakeware": false, 
       "tyler": false, 
       "derek": false, 
       "jonnye": false, 
-      "tom": false, 
+      "jossay": false, 
+      "blakeware": false, 
       "woody": false, 
       "tes": false, 
-      "christy": false
+      "nate": false
     }
   }, 
   {
     "date": "2013-12-06", 
     "results": {
-      "derek": false, 
-      "trung": false, 
+      "christy": false, 
+      "tes": false, 
       "alex": false, 
       "michaellake": false, 
-      "jossay": false, 
       "gregg": false, 
       "mattyohe": false, 
-      "kevin": true, 
       "jeffpamer": false, 
       "kathryn": false, 
-      "tyler": false, 
-      "kylebye": false, 
-      "jonnye": false, 
       "tom": false, 
+      "tyler": false, 
+      "derek": false, 
+      "jonnye": false, 
+      "jossay": false, 
+      "kylebye": false, 
       "woody": false, 
-      "tes": false, 
-      "christy": false, 
+      "trung": false, 
+      "kevin": true, 
       "jesseprehodick": false
     }
   }, 
   {
     "date": "2013-12-13", 
     "results": {
-      "mikewilkerson": false, 
+      "jossay": true, 
+      "mikemoore": false, 
       "gregg": false, 
       "mattyohe": false, 
-      "tom": false, 
-      "matthewes": false, 
-      "mikemoore": false, 
-      "kayla": false, 
-      "derek": false, 
       "tobias": false, 
-      "jossay": true, 
+      "matthewes": false, 
+      "mikewilkerson": false, 
+      "derek": false, 
+      "tom": false, 
       "woody": false, 
+      "kayla": false, 
       "jeffpamer": false, 
       "dayne": false, 
       "michaelrecachinas": false, 
       "kevin": false, 
       "jesseprehodick": true
+    }
+  }, 
+  {
+    "date": "2013-12-20", 
+    "results": {
+      "alex": false, 
+      "mattyohe": false, 
+      "michaelprichard": false, 
+      "christy": false, 
+      "derek": false, 
+      "jonnye": false, 
+      "jossay": false, 
+      "woody": false, 
+      "trung": false, 
+      "eric": true, 
+      "kevin": false, 
+      "sean": false
     }
   }
 ]
