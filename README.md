@@ -8,22 +8,20 @@ Rules
 3. No practice shots can be taken once the competition begins.
 4. Each participant gets to take one shot after paying the $1 entry fee. All fees must be paid  
    prior to the first shot.
-5. All shooters who hit the bell will split the pot.
+5. All shooters who hit the gong will split the pot.
 
 
-Bell Strikage Success Criteria
+Gong Strikage Success Criteria
 ------------------------------
-1. The participant must have both of his or her feet on the ground, behind the
-   gap between Tes and Matt Hewes' desks.
+1. The participant must have both of his or her feet on the ground, behind the back edge (the edge furthest from the gong) of the blue tape.
 2. The participant must use the original blue nerf pistol. It is especially noted
    Derek may not use his own nerf gun.
-3. The dart must strike either the bell's rope or its body, but importantly not
-   the piece of metal attached to the wall or the arm connecting the bell to
-   said piece of metal.
-4. Only bank shots off the back wall (the wall the bell is attached to) count as
+3. The dart must strike the gong, but not the line or hanging apparatus of the gong. 
+4. Only bank shots off the back wall (the wall the gong is attached to) count as
    a hit unless the shooter calls "bank". If the shooter calls bank then non-
    bank shots don't count. Hitting anything other than the back wall disqualifies
    the shot.
+5. Though successful gong strikage generally results in a pleasing gong sound, audible indications of success are not stictly required.
 
 
 Friday Shots Enhancement Proposals (FSEPs)
