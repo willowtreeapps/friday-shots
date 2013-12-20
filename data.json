@@ -3,43 +3,64 @@
     "date": "2013-11-29", 
     "results": {
       "blake": false, 
-      "woody": false, 
-      "jossay": false, 
+      "michaellake": false, 
       "gregg": false, 
-      "tom": false, 
+      "jossay": false, 
+      "nate": false, 
       "tobias": false, 
       "kathryn": false, 
+      "blakeware": false, 
       "tyler": false, 
       "derek": false, 
       "jonnye": false, 
-      "christy": false, 
-      "blakeware": false, 
+      "tom": false, 
+      "woody": false, 
       "tes": false, 
-      "nate": false, 
-      "michaellake": false
+      "christy": false
     }
   }, 
   {
     "date": "2013-12-06", 
     "results": {
-      "tes": false, 
+      "derek": false, 
+      "trung": false, 
       "alex": false, 
       "michaellake": false, 
+      "jossay": false, 
       "gregg": false, 
       "mattyohe": false, 
-      "kevinsnead": true, 
-      "woody": false, 
+      "kevin": true, 
       "jeffpamer": false, 
       "kathryn": false, 
       "tyler": false, 
       "kylebye": false, 
-      "tom": false, 
-      "derek": false, 
-      "trung": false, 
       "jonnye": false, 
-      "jesseprehodick": false,
-      "christy": false,
-      "jossay": false
+      "tom": false, 
+      "woody": false, 
+      "tes": false, 
+      "christy": false, 
+      "jesseprehodick": false
+    }
+  }, 
+  {
+    "date": "2013-12-13", 
+    "results": {
+      "mikewilkerson": false, 
+      "gregg": false, 
+      "mattyohe": false, 
+      "tom": false, 
+      "matthewes": false, 
+      "mikemoore": false, 
+      "kayla": false, 
+      "derek": false, 
+      "tobias": false, 
+      "jossay": true, 
+      "woody": false, 
+      "jeffpamer": false, 
+      "dayne": false, 
+      "michaelrecachinas": false, 
+      "kevin": false, 
+      "jesseprehodick": true
     }
   }
 ]
