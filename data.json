@@ -39,7 +39,7 @@
       "woody": false, 
       "trung": false, 
       "christy": false, 
-      "jesseprehodick": false
+      "jesse": false
     }
   }, 
   {
@@ -60,7 +60,7 @@
       "dayne": false, 
       "michaelrecachinas": false, 
       "kevin": false, 
-      "jesseprehodick": true
+      "jesse": true
     }
   }, 
   {
@@ -112,18 +112,18 @@
       "andrewcarter": false, 
       "matthewes": false, 
       "jeffkusi": false, 
-      "jesseprehodick": false
+      "jesse": false
     }
   }, 
   {
     "date": "2014-01-17", 
     "results": {
       "sarah": false, 
-      "mlake": false, 
+      "michaellake": false, 
       "robcook": false, 
       "alex": false, 
       "monica": false, 
-      "michaelmoore": false, 
+      "mikemoore": false, 
       "gregg": false, 
       "christy": false, 
       "blake": false, 
@@ -132,7 +132,7 @@
       "kathryn": false, 
       "michaelprichard": false, 
       "tomchen": false, 
-      "jeffcusi": false, 
+      "jeffkusi": false, 
       "woody": false, 
       "tes": false, 
       "rebecca": false, 
