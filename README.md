@@ -10,6 +10,11 @@ Rules
    prior to the first shot.
 5. All shooters who hit the gong will split the pot.
 
+Rule Changes
+------------
+* Rule changes will be discussed among an ad hoc committee.
+* If implemented, rule changes must go into effect the day of and at a time after a competition.
+* Rule changes dealing with the gong strikage success criteria (GSSC) will be decided upon by an official WillowTree Apps vote and must be carried by at least 66% of non-abstaining voters.  A minimum of 15% of employees must carry any GSSC rule changes.
 
 Gong Strikage Success Criteria
 ------------------------------
