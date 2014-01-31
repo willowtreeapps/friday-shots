@@ -6,7 +6,7 @@ Rules
 1. The competition begins every Friday promptly at beer thirty (once at least one person has opened a beer and it is 4:30pm or later).
 2. Anyone in the office at the time of the competition can participate.
 3. No practice shots can be taken once the competition begins.
-4. Each participant gets to take one shot after paying the $1 entry fee. All fees must be paid  
+4. Each participant gets to take one shot after paying the $1 entry fee (greenbacks only!). All fees must be paid  
    prior to the first shot.
 5. All shooters who hit the gong will split the pot.
 
