@@ -31,63 +31,65 @@ FSEP 1 - It has been suggested that multiple shots may be purchased on an increa
      accompanying software.
 
 ####  Players' records  ####
-* 2 of 5 (40%) Jesseprehodick
+* 1 of 2 (50%) Mattdawson
+* 2 of 6 (33%) Jesseprehodick
 * 1 of 4 (25%) Ericrichardson
-* 1 of 5 (20%) Kevinsnead
-* 1 of 6 (17%) Jossayjacobo
+* 1 of 5 (20%) Jeffpamer
+* 1 of 6 (17%) Kevinsnead
+* 1 of 7 (14%) Jossayjacobo
 * 0 of 1 (0%) Michaelmoore
 * 0 of 1 (0%) Andrewcarter
-* 0 of 1 (0%) Rebekkahbrown
 * 0 of 1 (0%) Cassiesharpe
-* 0 of 1 (0%) Maxclevenson
 * 0 of 1 (0%) Seankenkeremath
+* 0 of 1 (0%) Maxclevenson
+* 0 of 1 (0%) Christiandahlhausen
 * 0 of 1 (0%) Kaylaleavesley
-* 0 of 1 (0%) Bijalpatel
-* 0 of 1 (0%) Mikewilkerson
 * 0 of 1 (0%) Kylebye
 * 0 of 1 (0%) Sarahfagan
 * 0 of 1 (0%) Patrickomalley
 * 0 of 1 (0%) Brandongrimes
-* 0 of 1 (0%) Mattdawson
+* 0 of 1 (0%) Michaelrecachinas
 * 0 of 1 (0%) Robertthompson
 * 0 of 1 (0%) Adamhockensmith
-* 0 of 1 (0%) Michaelrecachinas
-* 0 of 1 (0%) Christiandahlhausen
 * 0 of 1 (0%) Blakeware
-* 0 of 2 (0%) Mikemoore
+* 0 of 2 (0%) Rebekkahbrown
+* 0 of 2 (0%) Bijalpatel
+* 0 of 2 (0%) Mikewilkerson
 * 0 of 2 (0%) Matthewes
-* 0 of 2 (0%) Natevogt
-* 0 of 3 (0%) Robcook
-* 0 of 3 (0%) Jeffkusi
-* 0 of 3 (0%) Monicaprichard
+* 0 of 3 (0%) Mikemoore
+* 0 of 3 (0%) Natevogt
 * 0 of 3 (0%) Jonnye
 * 0 of 3 (0%) Daynemauney
-* 0 of 3 (0%) Blakesirach
 * 0 of 3 (0%) Trungtran
-* 0 of 4 (0%) Jeffpamer
-* 0 of 4 (0%) Mattyohe
-* 0 of 4 (0%) Michaelprichard
+* 0 of 4 (0%) Robcook
+* 0 of 4 (0%) Jeffkusi
 * 0 of 4 (0%) Tylerromeo
+* 0 of 4 (0%) Monicaprichard
 * 0 of 4 (0%) Kathrynware
-* 0 of 5 (0%) Testabilas
+* 0 of 4 (0%) Blakesirach
 * 0 of 5 (0%) Michaellake
-* 0 of 5 (0%) Alexshafran
+* 0 of 5 (0%) Mattyohe
+* 0 of 5 (0%) Michaelprichard
 * 0 of 5 (0%) Tobiasdengel
-* 0 of 6 (0%) Greggcarrier
-* 0 of 6 (0%) Derekbrameyer
-* 0 of 6 (0%) Christyphillips
+* 0 of 6 (0%) Testabilas
+* 0 of 6 (0%) Alexshafran
 * 0 of 6 (0%) Tomchen
-* 0 of 7 (0%) Woodyzantzinger
+* 0 of 7 (0%) Greggcarrier
+* 0 of 7 (0%) Derekbrameyer
+* 0 of 7 (0%) Christyphillips
+* 0 of 8 (0%) Woodyzantzinger
 
 #### Money by player  ####
 * [$84.00] Jesseprehodick
 * [$33.00] Kevinsnead
 * [$12.00] Ericrichardson
+* [$11.00] Jeffpamer
+* [$11.00] Mattdawson
 * [$8.00] Jossayjacobo
 
 #### Players per game  ####
-* Average: 19.57
-* Std dev: 5.78
+* Average: 19.88
+* Std dev: 5.46
 * Minimum: 12
 * Maximum: 30
 
