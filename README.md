@@ -37,11 +37,11 @@ FSEP 1 - It has been suggested that multiple shots may be purchased on an increa
 
 ####  Players' records  ####
 * 1 of 3 (33%) Mattdawson
-* 2 of 7 (29%) Kevinsnead
 * 2 of 7 (29%) Jesseprehodick
 * 1 of 4 (25%) Ericrichardson
 * 1 of 5 (20%) Jeffpamer
 * 1 of 6 (17%) Mattyohe
+* 1 of 7 (14%) Kevinsnead
 * 1 of 8 (12%) Jossayjacobo
 * 0 of 1 (0%) Jacquelinetrumbull
 * 0 of 1 (0%) Cassiesharpe
@@ -87,9 +87,9 @@ FSEP 1 - It has been suggested that multiple shots may be purchased on an increa
 
 #### Money by player  ####
 * [$84.00] Jesseprehodick
-* [$44.50] Kevinsnead
+* [$33.00] Kevinsnead
+* [$23.00] Mattyohe
 * [$12.00] Ericrichardson
-* [$11.50] Mattyohe
 * [$11.00] Jeffpamer
 * [$11.00] Mattdawson
 * [$8.00] Jossayjacobo
