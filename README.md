@@ -1,6 +1,19 @@
 Friday Shots
 =============
 
+How To Officiate
+----------------
+* Run `run.py` with a list of names as arguments (full names please!)
+** For example, `python run.py abrahamlincoln mattdamon nickofferman bertmacklin`
+* If players join late, you can manually edit the `data.json` file after the game has ended.
+** Scroll to the bottom of the file, and add a boolean.
+** Run the edited json through a JSON validator just to be sure it's valid.
+* Run `stats.py` with the `data.json` file as an argument
+** For example, `python stats.py data.json`
+** This will output the current statistics to the command line
+* Copy and paste the statistics from the command line to this `README.md` file, replacing the section below, "Players' records"
+* Push up your changes!
+
 Rules
 -----
 1. The competition begins every Friday promptly at beer thirty (once at least one person has opened a beer and it is 4:30pm or later).
