@@ -22,7 +22,7 @@
   {
     "date": "2013-12-06", 
     "results": {
-      "testabilas": false, 
+      "alexshafran": false, 
       "kathrynware": false, 
       "michaellake": false, 
       "christyphillips": false, 
@@ -32,7 +32,7 @@
       "woodyzantzinger": false, 
       "greggcarrier": false, 
       "jeffpamer": false, 
-      "alexshafran": false, 
+      "testabilas": false, 
       "derekbrameyer": false, 
       "kylebye": false, 
       "jonnye": false, 
@@ -45,10 +45,10 @@
   {
     "date": "2013-12-13", 
     "results": {
+      "tobiasdengel": false, 
+      "jossayjacobo": true, 
       "daynemauney": false, 
       "kaylaleavesley": false, 
-      "michaelrecachinas": false, 
-      "jesseprehodick": true, 
       "mikemoore": false, 
       "mattyohe": false, 
       "kevinsnead": false, 
@@ -59,8 +59,8 @@
       "derekbrameyer": false, 
       "tomchen": false, 
       "jeffpamer": false, 
-      "jossayjacobo": true, 
-      "tobiasdengel": false
+      "michaelrecachinas": false, 
+      "jesseprehodick": true
     }
   }, 
   {
@@ -85,42 +85,42 @@
     "results": {
       "robcook": false, 
       "patrickomalley": false, 
-      "andrewcarter": false, 
-      "maxclevenson": false, 
+      "woodyzantzinger": false, 
+      "jeffpamer": false, 
       "testabilas": false, 
       "christiandahlhausen": false, 
       "michaellake": false, 
       "kevinsnead": false, 
-      "woodyzantzinger": false, 
+      "maxclevenson": false, 
       "greggcarrier": false, 
       "derekbrameyer": false, 
+      "jesseprehodick": false, 
       "michaelprichard": false, 
       "tylerromeo": false, 
-      "jeffkusi": false, 
       "brandongrimes": false, 
+      "ericrichardson": false, 
       "alexshafran": false, 
       "monicaprichard": false, 
       "cassiesharpe": false, 
-      "jeffpamer": false, 
       "robertthompson": false, 
       "daynemauney": false, 
       "christyphillips": false, 
       "tomchen": false, 
       "kathrynware": false, 
-      "ericrichardson": false, 
+      "andrewcarter": false, 
       "matthewes": false, 
       "tobiasdengel": false, 
       "trungtran": false, 
       "jossayjacobo": false, 
-      "jesseprehodick": false
+      "jeffkusi": false
     }
   }, 
   {
     "date": "2014-01-17", 
     "results": {
-      "testabilas": false, 
+      "tobiasdengel": false, 
+      "alexshafran": false, 
       "robcook": false, 
-      "jeffkusi": false, 
       "michaellake": false, 
       "christyphillips": false, 
       "mikemoore": false, 
@@ -130,7 +130,7 @@
       "woodyzantzinger": false, 
       "greggcarrier": false, 
       "jeffpamer": false, 
-      "alexshafran": false, 
+      "testabilas": false, 
       "blakesirach": false, 
       "monicaprichard": false, 
       "tomchen": false, 
@@ -138,7 +138,7 @@
       "jesseprehodick": false, 
       "natevogt": false, 
       "rebekkahbrown": false, 
-      "tobiasdengel": false
+      "jeffkusi": false
     }
   }, 
   {
@@ -146,6 +146,7 @@
     "results": {
       "michaelmoore": false, 
       "robcook": false, 
+      "tobiasdengel": false, 
       "testabilas": false, 
       "michaellake": false, 
       "bijalpatel": false, 
@@ -156,7 +157,6 @@
       "derekbrameyer": false, 
       "michaelprichard": false, 
       "tylerromeo": false, 
-      "jeffkusi": false, 
       "alexshafran": false, 
       "monicaprichard": false, 
       "mattdawson": false, 
@@ -168,7 +168,7 @@
       "blakesirach": false, 
       "jesseprehodick": true, 
       "jossayjacobo": false, 
-      "tobiasdengel": false
+      "jeffkusi": false
     }
   }, 
   {
@@ -220,10 +220,10 @@
       "andrewcarter": false, 
       "blakesirach": false, 
       "blakeware": false, 
-      "jesseprehodick": false, 
+      "tobiasdengel": false, 
       "trungtran": false, 
       "jossayjacobo": false, 
-      "tobiasdengel": false
+      "jesseprehodick": false
     }
   }, 
   {
@@ -234,10 +234,10 @@
       "michaellake": false, 
       "christyphillips": false, 
       "tomchen": false, 
-      "kevinsnead": false, 
+      "andrewcarter": false, 
       "natevogt": false, 
       "pattishin": false, 
-      "andrewcarter": false, 
+      "kevinsnead": false, 
       "maxclevenson": false, 
       "greggcarrier": false, 
       "bijalpatel": false, 
@@ -265,10 +265,10 @@
       "woodyzantzinger": false, 
       "greggcarrier": false, 
       "adamhockensmith": false, 
-      "novallkhan": false, 
+      "mattdawson": false, 
       "blakesirach": false, 
       "austenlux": false, 
-      "mattdawson": false, 
+      "novallkhan": false, 
       "jesseprehodauney": false, 
       "jossayjacobo": false, 
       "jacquelinetrumbull": false
@@ -284,10 +284,10 @@
       "michaellake": false, 
       "christyphillips": false, 
       "tomchen": false, 
-      "kevinsnead": false, 
+      "ericrichardson": false, 
       "natevogt": false, 
       "mattyohe": false, 
-      "ericrichardson": false, 
+      "kevinsnead": false, 
       "adamhockensmith": false, 
       "alexshafran": false, 
       "derekbrameyer": false, 
@@ -295,9 +295,9 @@
       "monicaprichard": false, 
       "michaelprichard": false, 
       "paigebowelle": false, 
-      "jesseprehodick": false, 
+      "tobiasdengel": false, 
       "jossayjacobo": false, 
-      "tobiasdengel": false
+      "jesseprehodick": false
     }
   }, 
   {
@@ -332,11 +332,31 @@
       "maxclevenson": false, 
       "derekbrameyer": false, 
       "monicaprichard": false, 
-      "michaelprichard": false, 
       "austenlux": false, 
-      "tobiasdengel": false, 
+      "michaelprichard": false, 
+      "jesseprehodick": false, 
       "jossayjacobo": false, 
-      "jesseprehodick": false
+      "tobiasdengel": false
+    }
+  }, 
+  {
+    "date": "2014-05-09", 
+    "results": {
+      "tescelinetabilas": false, 
+      "emilyaitken": false, 
+      "daynemauney": false, 
+      "michaellake": false, 
+      "jacquelinetrumbull": false, 
+      "stevenbishop": true, 
+      "kevinsnead": false, 
+      "greggcarrier": false, 
+      "alexshafran": false, 
+      "derekbrameyer": false, 
+      "monicaprichard": true, 
+      "tonyteate": false, 
+      "michaelprichard": false, 
+      "paulfritz": false, 
+      "natevogt": false
     }
   }
 ]
