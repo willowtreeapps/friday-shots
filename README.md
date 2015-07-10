@@ -49,41 +49,41 @@ FSEP 1 - It has been suggested that multiple shots may be purchased on an increa
      accompanying software.
 
 ####  Players' records  ####
-* 1 of 1 (100%) Stevenbishop
 * 1 of 2 (50%) Ashbybowles
 * 1 of 2 (50%) Seankenkeremath
-* 2 of 7 (29%) Jeffpamer
-* 2 of 11 (18%) Jesseprehodick
+* 1 of 2 (50%) Stevenbishop
+* 2 of 8 (25%) Jeffpamer
 * 1 of 6 (17%) Mattdawson
 * 1 of 6 (17%) Ericrichardson
-* 1 of 9 (11%) Mattyohe
+* 2 of 12 (17%) Jesseprehodick
+* 1 of 10 (10%) Mattyohe
 * 1 of 10 (10%) Monicaprichard
-* 1 of 11 (9%) Natevogt
-* 1 of 13 (8%) Kevinsnead
-* 1 of 14 (7%) Jossayjacobo
-* 0 of 1 (0%) Whitneyfrench
+* 1 of 12 (8%) Natevogt
+* 1 of 14 (7%) Kevinsnead
+* 1 of 15 (7%) Jossayjacobo
 * 0 of 1 (0%) Davidlobosco
 * 0 of 1 (0%) Ianterrell
 * 0 of 1 (0%) Christiandahlhausen
-* 0 of 1 (0%) Pattishin
+* 0 of 1 (0%) Beverlyanderson
+* 0 of 1 (0%) Zachcosta
 * 0 of 1 (0%) Paulfritz
 * 0 of 1 (0%) Mattoconnell
 * 0 of 1 (0%) Jeffward
-* 0 of 1 (0%) Jordanschreuder
 * 0 of 1 (0%) Andreworobator
 * 0 of 1 (0%) Sarahfagan
 * 0 of 1 (0%) Brandongrimes
 * 0 of 1 (0%) Jamessun
 * 0 of 1 (0%) Petespringett
+* 0 of 1 (0%) Abigalehowell
 * 0 of 1 (0%) Ryangrigsby
-* 0 of 1 (0%) Milespeele
 * 0 of 1 (0%) Katemarton
 * 0 of 1 (0%) Jessicazimmerman
 * 0 of 1 (0%) Willabarnhardt
+* 0 of 1 (0%) Charliechandler
 * 0 of 1 (0%) Luketomlinson
 * 0 of 1 (0%) Jordanlu
 * 0 of 1 (0%) Kylebye
-* 0 of 1 (0%) Jeremystern
+* 0 of 1 (0%) Joelgarrett
 * 0 of 1 (0%) Mikerunnals
 * 0 of 1 (0%) Colleencasey
 * 0 of 1 (0%) Brianelliott
@@ -91,65 +91,72 @@ FSEP 1 - It has been suggested that multiple shots may be purchased on an increa
 * 0 of 1 (0%) Angelabatten
 * 0 of 1 (0%) Nasserlopez
 * 0 of 1 (0%) Alexramey
+* 0 of 1 (0%) Brandoncarter
 * 0 of 1 (0%) Seanharvey
 * 0 of 1 (0%) Serdaraslan
 * 0 of 1 (0%) Christhoma
 * 0 of 1 (0%) Cassiesharpe
-* 0 of 1 (0%) Shomodica
-* 0 of 1 (0%) Patrickhiggins
-* 0 of 1 (0%) Patrickomalley
+* 0 of 1 (0%) Natewootten
 * 0 of 1 (0%) Davidbruce
 * 0 of 1 (0%) Jordandunn
 * 0 of 1 (0%) Jesseprehodauney
 * 0 of 1 (0%) Tonyteate
 * 0 of 1 (0%) Dharanishgollamudi
-* 0 of 1 (0%) Jacksontaylor
 * 0 of 1 (0%) Robertthompson
-* 0 of 1 (0%) Seanamos
 * 0 of 1 (0%) Courtneymoore
 * 0 of 1 (0%) Tatyanacasino
 * 0 of 1 (0%) Andrewharris
 * 0 of 1 (0%) Bekkahbrown
 * 0 of 1 (0%) Michaelrecachinas
+* 0 of 2 (0%) Whitneyfrench
 * 0 of 2 (0%) Mikehull
-* 0 of 2 (0%) Kaylaleavesley
+* 0 of 2 (0%) Pattishin
 * 0 of 2 (0%) Mikewilkerson
+* 0 of 2 (0%) Jordanschreuder
 * 0 of 2 (0%) Matthewes
-* 0 of 2 (0%) Spencergennari
-* 0 of 2 (0%) Heatherraines
+* 0 of 2 (0%) Milespeele
+* 0 of 2 (0%) Jeremystern
 * 0 of 2 (0%) Emilyaitken
+* 0 of 2 (0%) Shomodica
+* 0 of 2 (0%) Patrickhiggins
+* 0 of 2 (0%) Patrickomalley
 * 0 of 2 (0%) Rebekkahbrown
-* 0 of 2 (0%) Erinkwon
+* 0 of 2 (0%) Jacksontaylor
+* 0 of 2 (0%) Seanamos
 * 0 of 2 (0%) Novallkhan
 * 0 of 2 (0%) Blakeware
+* 0 of 3 (0%) Kaylaleavesley
 * 0 of 3 (0%) Adamhockensmith
+* 0 of 3 (0%) Spencergennari
 * 0 of 3 (0%) Jacquelinetrumbull
 * 0 of 3 (0%) Maxclevenson
+* 0 of 3 (0%) Heatherraines
 * 0 of 3 (0%) Austenlux
+* 0 of 3 (0%) Erinkwon
 * 0 of 3 (0%) Jonnye
-* 0 of 3 (0%) Andrewcarter
 * 0 of 4 (0%) Michaelmoore
 * 0 of 4 (0%) Tylerromeo
 * 0 of 4 (0%) Tescelinetabilas
 * 0 of 4 (0%) Bijalpatel
 * 0 of 4 (0%) Jeffkusi
+* 0 of 4 (0%) Andrewcarter
 * 0 of 5 (0%) Mikemoore
 * 0 of 5 (0%) Trungtran
 * 0 of 6 (0%) Kathrynware
-* 0 of 7 (0%) Paigebowelle
 * 0 of 7 (0%) Robcook
-* 0 of 8 (0%) Blakesirach
+* 0 of 8 (0%) Paigebowelle
+* 0 of 9 (0%) Blakesirach
 * 0 of 9 (0%) Testabilas
 * 0 of 10 (0%) Daynemauney
 * 0 of 11 (0%) Tomchen
 * 0 of 11 (0%) Alexshafran
-* 0 of 11 (0%) Tobiasdengel
-* 0 of 11 (0%) Christyphillips
+* 0 of 12 (0%) Tobiasdengel
 * 0 of 12 (0%) Michaellake
 * 0 of 12 (0%) Michaelprichard
-* 0 of 14 (0%) Greggcarrier
-* 0 of 14 (0%) Woodyzantzinger
-* 0 of 15 (0%) Derekbrameyer
+* 0 of 12 (0%) Christyphillips
+* 0 of 15 (0%) Greggcarrier
+* 0 of 15 (0%) Woodyzantzinger
+* 0 of 16 (0%) Derekbrameyer
 
 #### Money by player  ####
 * [$84.00] Jesseprehodick
@@ -166,10 +173,10 @@ FSEP 1 - It has been suggested that multiple shots may be purchased on an increa
 * [$8.00] Jossayjacobo
 
 #### Players per game  ####
-* Average: 20.56
-* Std dev: 6.35
+* Average: 21.37
+* Std dev: 7.08
 * Minimum: 12
 * Maximum: 39
 
 ### Money in the pot ###
-* $39
+* $75
