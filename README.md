@@ -35,8 +35,8 @@ Gong Strikage Success Criteria
 2. The participant must use the original blue nerf pistol. It is especially noted
    Derek may not use his own nerf gun.
 3. The dart must strike the gong, but not the line or hanging apparatus of the gong. 
-4. Only bank shots off the back wall (the wall the gong is attached to) count as
-   a hit unless the shooter calls "bank". If the shooter calls bank then non-
+4. Bank shots off the back wall (the wall the gong is attached to) only count as
+   a hit if the shooter calls "bank". If the shooter calls bank then non-
    bank shots don't count. Hitting anything other than the back wall disqualifies
    the shot.
 5. Though successful gong strikage generally results in a pleasing gong sound, audible indications of success are not stictly required.
