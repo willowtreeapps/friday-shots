@@ -17,6 +17,9 @@ results = {}
 while names:
     name = names.pop()
 
+    if len(names) > 0:
+        print 'On deck: %s' % names[-1]
+        
     result = raw_input('[%d] %s: ' % (len(results) + 1, name))
     result = result.lower()
 
