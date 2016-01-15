@@ -51,23 +51,23 @@ FSEP 1 - It has been suggested that multiple shots may be purchased on an increa
 ####  Players' records  ####
 * 1 of 2 (50%) Seankenkeremath
 * 1 of 2 (50%) Stevenbishop
-* 2 of 4 (50%) Brandoncarter
+* 2 of 5 (40%) Brandoncarter
 * 1 of 4 (25%) Ashbybowles
 * 2 of 8 (25%) Jeffpamer
 * 1 of 6 (17%) Mattdawson
 * 1 of 7 (14%) Ericrichardson
-* 2 of 14 (14%) Jesseprehodick
+* 2 of 15 (13%) Jesseprehodick
 * 1 of 10 (10%) Monicaprichard
 * 1 of 11 (9%) Mattyohe
 * 1 of 14 (7%) Natevogt
-* 1 of 16 (6%) Jossayjacobo
-* 1 of 16 (6%) Kevinsnead
+* 1 of 17 (6%) Jossayjacobo
+* 1 of 17 (6%) Kevinsnead
 * 0 of 1 (0%) Drewbmeyer
 * 0 of 1 (0%) Ianterrell
 * 0 of 1 (0%) Christiandahlhausen
 * 0 of 1 (0%) Vijumathew
 * 0 of 1 (0%) Johnloy
-* 0 of 1 (0%) Drewmeyer
+* 0 of 1 (0%) Melissanierle
 * 0 of 1 (0%) Erikazantzinger
 * 0 of 1 (0%) Jeffward
 * 0 of 1 (0%) Andreworobator
@@ -75,6 +75,7 @@ FSEP 1 - It has been suggested that multiple shots may be purchased on an increa
 * 0 of 1 (0%) Brandongrimes
 * 0 of 1 (0%) Jamessun
 * 0 of 1 (0%) Jessicazimmermann
+* 0 of 1 (0%) Harangju
 * 0 of 1 (0%) Katemarton
 * 0 of 1 (0%) Jessicazimmerman
 * 0 of 1 (0%) Jordanlu
@@ -83,25 +84,25 @@ FSEP 1 - It has been suggested that multiple shots may be purchased on an increa
 * 0 of 1 (0%) Thomaschen
 * 0 of 1 (0%) Scottzetlan
 * 0 of 1 (0%) Jessphoa
-* 0 of 1 (0%) Nasserlopez
 * 0 of 1 (0%) Alexramey
+* 0 of 1 (0%) Jakejohnson
 * 0 of 1 (0%) Seanharvey
 * 0 of 1 (0%) Serdaraslan
 * 0 of 1 (0%) Cassiesharpe
-* 0 of 1 (0%) Kentongordon
 * 0 of 1 (0%) Mattmorrison
-* 0 of 1 (0%) Bretfears
+* 0 of 1 (0%) Mattkauper
 * 0 of 1 (0%) Jordandunn
 * 0 of 1 (0%) Jesseprehodauney
 * 0 of 1 (0%) Tonyteate
 * 0 of 1 (0%) Dustinboggs
+* 0 of 1 (0%) Larrybanner
 * 0 of 1 (0%) Dharanishgollamudi
 * 0 of 1 (0%) Robertthompson
 * 0 of 1 (0%) Courtneymoore
 * 0 of 1 (0%) Tatyanacasino
 * 0 of 1 (0%) Petercentofante
 * 0 of 1 (0%) Davidmurray
-* 0 of 1 (0%) Abbycook
+* 0 of 1 (0%) Rebekahrussel
 * 0 of 1 (0%) Trinaclark
 * 0 of 1 (0%) Andrewharris
 * 0 of 1 (0%) Bekkahbrown
@@ -112,18 +113,20 @@ FSEP 1 - It has been suggested that multiple shots may be purchased on an increa
 * 0 of 2 (0%) Pattishin
 * 0 of 2 (0%) Mikewilkerson
 * 0 of 2 (0%) Paulfritz
-* 0 of 2 (0%) Mattoconnell
+* 0 of 2 (0%) Drewmeyer
 * 0 of 2 (0%) Matthewes
 * 0 of 2 (0%) Willabarnhardt
 * 0 of 2 (0%) Luketomlinson
 * 0 of 2 (0%) Joelgarrett
 * 0 of 2 (0%) Mikerunnals
 * 0 of 2 (0%) Brianelliott
-* 0 of 2 (0%) Mattwolfe
 * 0 of 2 (0%) Emilyaitken
 * 0 of 2 (0%) Angelabatten
+* 0 of 2 (0%) Nasserlopez
 * 0 of 2 (0%) Christhoma
 * 0 of 2 (0%) Natewootten
+* 0 of 2 (0%) Kentongordon
+* 0 of 2 (0%) Bretfears
 * 0 of 2 (0%) Shomodica
 * 0 of 2 (0%) Patrickhiggins
 * 0 of 2 (0%) Patrickomalley
@@ -131,49 +134,52 @@ FSEP 1 - It has been suggested that multiple shots may be purchased on an increa
 * 0 of 2 (0%) Rebekkahbrown
 * 0 of 2 (0%) Jacksontaylor
 * 0 of 2 (0%) Alborzmesbahi
+* 0 of 2 (0%) Abbycook
 * 0 of 2 (0%) Novallkhan
 * 0 of 2 (0%) Blakeware
 * 0 of 3 (0%) Whitneyfrench
 * 0 of 3 (0%) Kaylaleavesley
-* 0 of 3 (0%) Jordanschreuder
+* 0 of 3 (0%) Mattoconnell
 * 0 of 3 (0%) Petespringett
 * 0 of 3 (0%) Adamhockensmith
 * 0 of 3 (0%) Abigalehowell
 * 0 of 3 (0%) Ryangrigsby
 * 0 of 3 (0%) Jacquelinetrumbull
 * 0 of 3 (0%) Milespeele
-* 0 of 3 (0%) Benfrye
 * 0 of 3 (0%) Maxclevenson
-* 0 of 3 (0%) Charliechandler
-* 0 of 3 (0%) Austenlux
+* 0 of 3 (0%) Mattwolfe
 * 0 of 3 (0%) Seanamos
 * 0 of 3 (0%) Erinkwon
 * 0 of 3 (0%) Jonnye
 * 0 of 4 (0%) Michaelmoore
-* 0 of 4 (0%) Zachcosta
 * 0 of 4 (0%) Tylerromeo
+* 0 of 4 (0%) Jordanschreuder
 * 0 of 4 (0%) Spencergennari
 * 0 of 4 (0%) Tescelinetabilas
 * 0 of 4 (0%) Bijalpatel
+* 0 of 4 (0%) Benfrye
+* 0 of 4 (0%) Charliechandler
+* 0 of 4 (0%) Austenlux
 * 0 of 4 (0%) Jeffkusi
-* 0 of 5 (0%) Jeremystern
+* 0 of 5 (0%) Zachcosta
 * 0 of 5 (0%) Heatherraines
 * 0 of 5 (0%) Trungtran
 * 0 of 5 (0%) Andrewcarter
+* 0 of 6 (0%) Jeremystern
 * 0 of 6 (0%) Kathrynware
 * 0 of 7 (0%) Mikemoore
 * 0 of 7 (0%) Robcook
 * 0 of 9 (0%) Testabilas
 * 0 of 10 (0%) Paigebowelle
-* 0 of 10 (0%) Blakesirach
 * 0 of 11 (0%) Tomchen
+* 0 of 11 (0%) Blakesirach
 * 0 of 11 (0%) Daynemauney
-* 0 of 12 (0%) Alexshafran
 * 0 of 12 (0%) Tobiasdengel
 * 0 of 12 (0%) Michaellake
-* 0 of 12 (0%) Michaelprichard
+* 0 of 13 (0%) Alexshafran
+* 0 of 13 (0%) Michaelprichard
 * 0 of 13 (0%) Christyphillips
-* 0 of 16 (0%) Greggcarrier
+* 0 of 17 (0%) Greggcarrier
 * 0 of 17 (0%) Woodyzantzinger
 * 0 of 17 (0%) Derekbrameyer
 
@@ -193,10 +199,11 @@ FSEP 1 - It has been suggested that multiple shots may be purchased on an increa
 * [$8.00] Jossayjacobo
 
 #### Players per game  ####
-* Average: 22.27
-* Std dev: 7.89
+* Average: 22.48
+* Std dev: 7.77
 * Minimum: 12
 * Maximum: 39
 
 ### Money in the pot ###
-* $0
+* $27
+
