@@ -4,6 +4,16 @@ import json
 import random
 import sys
 
+class bcolors:
+    HEADER = '\033[95m'
+    OKBLUE = '\033[94m'
+    OKGREEN = '\033[92m'
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    ENDC = '\033[0m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
+
 names = list(set(sys.argv[1:]))
 
 print 'There are %d players: %s' % (len(names), ', '.join(sorted(names)))
@@ -20,7 +30,7 @@ while names:
     if len(names) > 0:
         print 'On deck: %s' % names[-1]
         
-    result = raw_input('[%d] %s: ' % (len(results) + 1, name))
+    result = raw_input('[%d] %s: ' % (len(results) + 1, bcolors.BOLD + bcolors.HEADER + name.upper() + bcolors.ENDC))
     result = result.lower()
 
     if result in ('y', 'yes'):
